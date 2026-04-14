@@ -1,0 +1,709 @@
+﻿triple_id,subject,predicate,object,source_standard,clause,note,confidence,layer,scenario_id,subject_type,object_type,norm_predicate
+1,混凝土裂缝修补,选择依据,成因与性状,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.1,,high,base,,Defect,Concept,related_to
+2,混凝土裂缝修补,应按…选择,适当的修补方法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.1,,high,base,,Defect,Concept,requires
+3,混凝土裂缝修补,应根据…选择,合适的修补材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.1,,high,base,,Defect,Concept,requires
+4,混凝土裂缝修补,应根据…选择,合适的修补时机,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.1,,high,base,,Defect,Concept,requires
+5,混凝土裂缝修补,可采用,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.2,,high,base,,Defect,RepairMethod,treated_by
+6,混凝土裂缝修补,可采用,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.2,,high,base,,Defect,RepairMethod,treated_by
+7,混凝土裂缝修补,可采用,凿槽嵌填法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.2,,high,base,,Defect,RepairMethod,treated_by
+8,混凝土裂缝修补,可采用,灌浆法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.2,,high,base,,Defect,RepairMethod,treated_by
+9,裂缝修补前,应收集,裂缝相关资料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Defect,requires
+10,裂缝修补前,应进行,裂缝分类,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Defect,requires
+11,裂缝修补前,应进行,裂缝评估,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Defect,requires
+12,裂缝修补前,应明确,修补范围与规模,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,DefectFeature,requires
+13,裂缝修补前,应明确,修补方法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Concept,requires
+14,裂缝修补前,应明确,工艺要求,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Concept,requires
+15,裂缝修补前,应明确,质量合格标准,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,QualityEvaluation,requires
+16,裂缝处理范围内的混凝土表面,应达到,清洁,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+17,裂缝处理范围内的混凝土表面,应达到,坚固,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+18,裂缝处理范围内的混凝土表面,应达到,平整,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+19,裂缝处理范围内的混凝土表面,应达到,干燥,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+20,有外观要求的裂缝修补,应满足,外观设计要求,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,base,,Defect,Concept,requires
+21,表面裂缝,可选用,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.1,,high,base,,DefectFeature,RepairMethod,uses_material
+22,表面裂缝,可选用,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.1,,high,base,,DefectFeature,RepairMethod,uses_material
+23,浅层裂缝,可选用,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.1,,high,base,,DefectFeature,RepairMethod,uses_material
+24,浅层裂缝,可选用,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.1,,high,base,,DefectFeature,RepairMethod,uses_material
+25,涂刷法,涂刷范围扩展至裂缝两侧,5cm～15cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+26,涂刷法,向裂缝两端延伸,10cm～30cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+27,涂刷法,要求,涂层基面平整,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,requires
+28,涂刷法,采用界面剂时应采用,与涂刷涂层配套的界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,RepairMaterial,related_to
+29,涂刷法,下一道与上一道涂刷方向,垂直,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+30,涂刷法,涂层厚度和均匀性,应符合设计要求和产品规定,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+31,涂刷法涂层,颜色,应均匀,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,has_index_requirement
+32,涂刷法涂层,不得有,鼓包,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+33,涂刷法涂层,不得有,流淌,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+34,涂刷法涂层,不得有,针孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+35,涂刷法涂层,不得有,分层,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+36,涂刷法涂层,不得有,缩孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,related_to
+37,结构转弯处、边缘、阴角、阳角与伸出基层的管道周围等细部,工艺,应进行细化设计,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,Concept,Concept,related_to
+38,涂刷法施工,应在,涂层产品规定的作业环境,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,RepairMethod,Concept,requires
+39,喷涂施工,应采用,专用设备,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.2,,high,base,,Concept,Concept,treated_by
+40,粘贴法,粘贴范围扩展至裂缝两侧,10cm～20cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMethod,Concept,related_to
+41,粘贴法,向裂缝两端延伸,20cm～40cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMethod,Concept,related_to
+42,粘贴法,要求,粘贴范围基面平整,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMethod,Concept,requires
+43,粘贴法,应采用,与粘贴材料配套的界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMethod,RepairMaterial,treated_by
+44,界面剂,涂刷方式,均匀涂刷于基面,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMaterial,RepairMethod,related_to
+45,柔性片材,与基层混凝土,应粘贴密实,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,Concept,Concept,related_to
+46,柔性片材,与基层混凝土,应粘贴牢固,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,Concept,Concept,related_to
+47,柔性片材,与基层混凝土,应粘贴平整,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,Concept,Concept,related_to
+48,粘贴法接头,宜采用,搭接形式,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,RepairMethod,Concept,treated_by
+49,搭接长度,应大于,10cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,Concept,Concept,requires
+50,柔性片材周边与混凝土接触部位,宜采用,专用止水材料封边,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,Concept,Concept,treated_by
+51,对柔性片材进行外表面保护时,应按设计要求采用,保护板材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,DefectFeature,RepairMaterial,requires
+52,对柔性片材进行外表面保护时,应按设计要求采用,不锈钢压条,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,DefectFeature,RepairMaterial,requires
+53,对柔性片材进行外表面保护时,应按设计要求采用,不锈钢螺栓,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.2.3,,high,base,,DefectFeature,RepairMaterial,requires
+54,深层裂缝,应采用,内部灌浆法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.1,,high,base,,DefectFeature,RepairMethod,treated_by
+55,贯穿裂缝,应采用,内部灌浆法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.1,,high,base,,Defect,RepairMethod,treated_by
+56,内部灌浆法,灌浆材料可选用,化学浆材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.1,,high,base,,RepairMethod,Concept,uses_material
+57,内部灌浆法,灌浆材料可选用,水泥浆材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.1,,high,base,,RepairMethod,RepairMaterial,uses_material
+58,裂缝宽度小于0.5mm,宜选用,化学浆材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.1,,high,base,,DefectFeature,Concept,uses_material
+59,缝口宽度大于1mm的裂缝,宜选用,先凿槽嵌填后灌浆的方法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,Defect,RepairMethod,uses_material
+60,凿槽嵌填法,槽型,U形槽,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,RepairMethod,Concept,related_to
+61,凿槽嵌填法,槽宽,5cm～6cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,RepairMethod,Concept,related_to
+62,凿槽嵌填法,槽深,5cm～6cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,RepairMethod,Concept,related_to
+63,U形槽,向缝两端延长,5cm～20cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,Concept,Concept,related_to
+64,槽内表面,应涂刷,界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,DefectFeature,RepairMaterial,requires
+65,槽内,应分层嵌填,刚性材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,Concept,Concept,requires
+66,槽内,应分层嵌填,柔性材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,Concept,RepairMaterial,requires
+67,凿槽嵌填表面,处理要求,压实抹光,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.2,,high,base,,RepairMethod,Concept,related_to
+68,立面竖向裂缝或斜缝灌浆,顺序,自下而上,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,has_principle
+69,立面竖向裂缝或斜缝灌浆,顺序,由深孔到浅孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,has_principle
+70,立面水平或近似水平裂缝灌浆,顺序,自一端向另一端,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,has_principle
+71,立面水平或近似水平裂缝灌浆,顺序,由深孔到浅孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,has_principle
+72,平面裂缝灌浆,开灌孔选择,通畅性最好的孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,related_to
+73,裂缝规模较大时,可采取,分区灌浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,DefectFeature,RepairMethod,related_to
+74,灌浆钻孔,宜采用,回转取芯钻机钻进,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,RepairMethod,Concept,treated_by
+75,灌浆孔采用斜孔时,应,穿过缝面与缝面相交,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Concept,Concept,requires
+76,斜孔过缝深度,应大于,10cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,DefectFeature,Concept,requires
+77,骑缝孔孔深距裂缝底,宜小于,40cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Defect,Concept,requires
+78,水泥浆液水灰比,可按,设计规定执行,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Concept,Concept,related_to
+79,灌浆压力,可按,设计规定执行,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,DefectFeature,Concept,related_to
+80,灌浆结束标准,在最大设计压力下注入率不大于,0.05L/min,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Concept,Concept,related_to
+81,灌浆结束标准,继续灌注时间,20min,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,base,,Concept,Concept,related_to
+82,裂缝灌浆后表面封闭,可采用,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,base,,RepairMethod,RepairMethod,treated_by
+83,裂缝灌浆后表面封闭,可采用,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,base,,RepairMethod,RepairMethod,treated_by
+84,混凝土渗漏处理,宜在,渗漏早期,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Defect,Defect,requires
+85,混凝土渗漏处理,宜在,无水或低水位情况下,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Defect,Concept,requires
+86,渗漏迎水面处截堵,原则,上堵下排、堵排结合,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Location,Concept,has_principle
+87,背水面堵漏,原则,先排后堵、排堵结合,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Location,Concept,has_principle
+88,重要部位渗漏,应进行,专项设计,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Defect,Concept,requires
+89,重要部位渗漏,应采用,综合方法处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.1.1,,high,base,,Defect,Concept,treated_by
+90,涂刷法,适用于,在渗漏迎水面对裂缝或层间缝缝口进行处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.1,,high,base,,RepairMethod,Location,applicable_to
+91,粘贴防渗层法,适用于,在渗漏迎水面对裂缝或层间缝缝口进行处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.1,,high,base,,Concept,Location,applicable_to
+92,凿槽嵌填法,适用于,在迎水面处对渗漏裂缝缝口进行嵌填处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,RepairMethod,Location,applicable_to
+93,凿槽嵌填法,适用于,在迎水面处对渗漏层间缝缝口进行嵌填处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,RepairMethod,Location,applicable_to
+94,背水面渗漏裂缝处理采用凿槽嵌填法时,应先采取,临时封堵措施,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,Location,Concept,requires
+95,迎水面渗漏裂缝处理,可采用,沿渗漏裂缝骑缝开凿U形槽,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,Location,Defect,treated_by
+96,迎水面渗漏层间缝处理,可采用,沿层间缝骑缝开凿U形槽,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,Location,Location,treated_by
+97,凿槽嵌填法,可在缝两端骑缝钻,截水孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,RepairMethod,Concept,related_to
+98,U形槽和截水孔,应分层嵌填,亲水性柔性材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,Concept,RepairMaterial,requires
+99,渗漏逸出点临时封堵,应采用,速凝材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,Location,RepairMaterial,treated_by
+100,对凿槽嵌填材料有防护要求时,应涂抹,防护材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,RepairMethod,RepairMaterial,requires
+101,有外观要求的凿槽嵌填处理,应按要求进行,装饰,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,base,,RepairMethod,Concept,requires
+102,裂缝或层间缝渗漏,可在迎水面处采用,灌浆截堵,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,Location,Concept,treated_by
+103,裂缝或层间缝渗漏,可在出水口采用,钻孔顶水灌浆封堵,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,Location,RepairMethod,treated_by
+104,迎水面灌浆钻孔,应采取,斜孔布置,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,Location,Concept,requires
+105,灌浆前,宜进行,有色水压水试验,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,Concept,InvestigationMethod,requires
+106,顶水灌浆法钻孔,可采用,骑缝孔,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,RepairMethod,Concept,treated_by
+107,顶水灌浆法钻孔,可采用,斜孔布置,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,RepairMethod,Concept,treated_by
+108,压水试验压力,不应大于,最大水头下的静水压力,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,InvestigationMethod,DefectFeature,related_to
+109,试气压力,不宜超过,灌浆压力的30%,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.3,,high,base,,DefectFeature,DefectFeature,related_to
+110,引排止漏法,适用于,在渗漏逸出点处处理渗漏裂缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,RepairMethod,Location,applicable_to
+111,引排止漏法,适用于,在渗漏逸出点处处理渗漏层间缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,RepairMethod,Location,applicable_to
+112,引排止漏法,施工方式,在缝一侧或两侧钻斜孔与缝面相交,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,RepairMethod,RepairMethod,related_to
+113,引排止漏法,埋管作用,引排水,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,RepairMethod,Concept,related_to
+114,引排完成后,应进行,封缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,Concept,RepairMethod,requires
+115,引排完成后,应进行,灌浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,Concept,Concept,requires
+116,渗漏修补后,应,封闭导水管,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.4,,high,base,,Defect,Concept,requires
+117,结构缝渗漏,可采用,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,RepairMethod,treated_by
+118,结构缝渗漏,可采用,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,RepairMethod,treated_by
+119,结构缝渗漏,可采用,锚固法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,Concept,treated_by
+120,结构缝渗漏,可采用,凿槽嵌填法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,RepairMethod,treated_by
+121,结构缝渗漏,可采用,灌浆法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,RepairMethod,treated_by
+122,结构缝渗漏,可采用,钻孔隔离法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,RepairMethod,treated_by
+123,结构缝渗漏,可采用,综合法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1-6.3.8,,high,base,,Location,Concept,treated_by
+124,沥青井止水结构渗漏,可采用,补灌沥青,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.8,,high,base,,Defect,RepairMethod,treated_by
+125,结构缝渗漏涂刷法,应嵌填,柔性密封材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1,,high,base,,Location,Concept,requires
+126,结构缝渗漏涂刷法,应分层涂刷,柔性防渗涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1,,high,base,,Location,Concept,requires
+127,结构缝中间部位涂层宽度,不小于,25cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1,,high,base,,Location,Concept,related_to
+128,结构缝中间部位涂层厚度,不小于,4mm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1,,high,base,,Location,Concept,related_to
+129,结构缝中间部位涂层内,应粘贴,一道胎基布,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.1,,high,base,,Location,RepairMaterial,requires
+130,结构缝渗漏粘贴法,可选择,表面粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,Location,RepairMethod,related_to
+131,结构缝渗漏粘贴法,可选择,凿槽粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,Location,RepairMethod,related_to
+132,表面粘贴法,潮湿基面粘贴时应选用,亲水性界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,RepairMethod,RepairMaterial,related_to
+133,凿槽粘贴法,应嵌入,柔性密封材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,RepairMethod,Concept,requires
+134,凿槽粘贴法,可铺设,柔性防水板材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,RepairMethod,Concept,related_to
+135,凿槽粘贴法,可涂刷,柔性涂层,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,RepairMethod,Concept,related_to
+136,凿槽粘贴法,应钻孔埋设,锚固钢筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.2,,high,base,,RepairMethod,Concept,requires
+137,锚固法,可采用,内部锚固柔性防水板材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.3,,high,base,,Concept,Concept,treated_by
+138,锚固法,可采用,外部锚固柔性防水板材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.3,,high,base,,Concept,Concept,treated_by
+139,内部锚固柔性防水板材施工,应嵌入,柔性密封材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.3,,high,base,,Concept,Concept,requires
+140,外部锚固柔性防水板材施工,应嵌入,柔性密封材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.3,,high,base,,Concept,Concept,requires
+141,凿槽嵌填法处理结构缝渗漏,槽型可为,U形槽,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.4,,high,base,,Location,Concept,related_to
+142,凿槽嵌填法处理结构缝渗漏,槽型可为,T形槽,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.4,,high,base,,Location,Concept,related_to
+143,凿槽嵌填法处理结构缝渗漏,应嵌填,柔性材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.4,,high,base,,Location,RepairMaterial,requires
+144,对嵌填材料进行表面封闭保护时,可采取,涂刷方法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.4,,high,base,,RepairMethod,RepairMethod,related_to
+145,有伸缩变形的结构缝,应选用,弹性好、延伸性大的柔性灌浆材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.5,,high,base,,Location,Concept,uses_material
+146,蓄水后处于受压工作状态的结构缝,应选用,刚性灌浆材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.5,,high,base,,Location,RepairMaterial,uses_material
+147,结构缝灌浆压力,宜为,0.3MPa～0.5MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.5,,high,base,,Location,Concept,requires
+148,结构缝灌浆结束标准,在设计灌浆压力下注入率不大于,0.01L/min,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.5,,high,base,,Location,Concept,related_to
+149,结构缝灌浆结束标准,继续灌注时间,20min,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.5,,high,base,,Location,Concept,related_to
+150,钻孔隔离法,适用于,结构缝渗漏处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.6,,high,base,,RepairMethod,Location,applicable_to
+151,钻孔隔离法,施工方式,骑缝孔内回填或灌注胶凝材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.6,,high,base,,RepairMethod,RepairMethod,related_to
+152,钻孔隔离法骑缝钻孔,孔位偏差应小于,1cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.6,,high,base,,RepairMethod,Concept,related_to
+153,综合法处理结构缝渗漏,应进行,专项设计,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.7,,high,base,,Location,Concept,requires
+154,补灌沥青,适用于,沥青井止水结构的渗漏处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.3.8,,high,base,,RepairMethod,Defect,applicable_to
+155,集中渗漏且水压小于0.1MPa,可采用,直接堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,DefectFeature,RepairMethod,treated_by
+156,集中渗漏且水压小于0.1MPa,可采用,导管堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,DefectFeature,RepairMethod,treated_by
+157,集中渗漏且水压大于0.1MPa,可采用,灌浆堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,DefectFeature,RepairMethod,treated_by
+158,直接堵漏法,要求堵漏材料,在潮湿和动水条件下速凝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,RepairMethod,Concept,related_to
+159,直接堵漏法,要求堵漏材料,凝固时间可调控,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,RepairMethod,Concept,related_to
+160,直接堵漏法,要求堵漏材料,与孔壁黏结牢固,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,base,,RepairMethod,Concept,related_to
+161,直接堵漏法,孔形,口大内小的楔形,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.2,,high,base,,RepairMethod,Concept,related_to
+162,直接堵漏法,堵漏材料,速凝材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.2,,high,base,,RepairMethod,RepairMaterial,related_to
+163,导管堵漏法,将导管插入,凿好的孔洞,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.3,,high,base,,RepairMethod,RiskOrIssue,related_to
+164,导管堵漏法,导管四周封堵材料,速凝材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.3,,high,base,,RepairMethod,RepairMaterial,related_to
+165,导管堵漏法,导管孔封堵材料,速凝材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.3,,high,base,,RepairMethod,RepairMaterial,related_to
+166,灌浆堵漏法,将漏水孔口扩成,喇叭状,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,RepairMethod,Concept,related_to
+167,灌浆堵漏法,应埋设,灌浆管,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,RepairMethod,Concept,requires
+168,灌浆堵漏法,应采用,高强砂浆回填管口四周,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,RepairMethod,RepairMethod,treated_by
+169,灌浆堵漏法,压水试验压力宜为水头压力的,1.2倍～1.5倍,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,RepairMethod,Concept,related_to
+170,灌浆堵漏法,基本不吸浆或已接近胶凝浆材凝固时间时,结束灌浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,RepairMethod,Concept,related_to
+171,渗漏量很大时,可在集中渗漏周边钻设,若干斜孔引排,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,base,,DefectFeature,Concept,related_to
+172,散渗处理涂刷法,适用于,大面积散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.1,,high,base,,RepairMethod,DefectFeature,applicable_to
+173,散渗处理涂刷法,材料宜选用,聚合物水泥基涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.1,,high,base,,RepairMethod,Concept,uses_material
+174,散渗处理涂刷法,材料宜选用,渗透结晶型涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.1,,high,base,,RepairMethod,Concept,uses_material
+175,散渗处理涂刷法,材料宜选用,高分子材料涂层,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.1,,high,base,,RepairMethod,Concept,uses_material
+176,散渗处理涂刷法,要求,涂刷范围大于渗漏区域,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.1,,high,base,,RepairMethod,RepairMethod,requires
+177,散渗处理粘贴法,适用于,因混凝土防渗等级不足引起的大面积散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,DefectFeature,applicable_to
+178,散渗处理锚固法,适用于,因混凝土防渗等级不足引起的大面积散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,DefectFeature,DefectFeature,applicable_to
+179,散渗处理粘贴法/锚固法,可选择材料,三元乙丙橡胶片材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,Concept,uses_material
+180,散渗处理粘贴法/锚固法,可选择材料,氯丁橡胶片材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,Concept,uses_material
+181,散渗处理粘贴法/锚固法,可选择材料,聚氯乙烯片材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,Concept,uses_material
+182,散渗处理粘贴法/锚固法,可选择材料,聚乙烯片材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,Concept,uses_material
+183,散渗处理粘贴法/锚固法,可选择材料,橡胶布及其他防水材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.2,,high,base,,RepairMethod,Concept,uses_material
+184,防渗面板法,适用于,混凝土严重渗漏、抗渗性能差的迎水面散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.3,,high,base,,Location,Location,applicable_to
+185,防渗面板法,面板材料宜选用,水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.3,,high,base,,Location,Concept,related_to
+186,防渗面板法,面板材料宜选用,沥青混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.3,,high,base,,Location,RepairMaterial,related_to
+187,灌浆法,适用于,混凝土密实性差产生的散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.4,,high,base,,RepairMethod,DefectFeature,applicable_to
+188,灌浆法,适用于,网状深层裂缝产生的散渗处理,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.4,,high,base,,RepairMethod,DefectFeature,applicable_to
+189,散渗处理灌浆法,灌浆材料可选用,水泥浆材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.4,,high,base,,RepairMethod,RepairMaterial,uses_material
+190,散渗处理灌浆法,灌浆材料可选用,化学浆材,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.5.4,,high,base,,RepairMethod,Concept,uses_material
+191,混凝土剥蚀修补,应先,分类,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,requires
+192,混凝土剥蚀修补,应先判明,剥蚀原因,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,RiskOrIssue,requires
+193,混凝土剥蚀修补后,可在表面涂刷,具有防渗特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,related_to
+194,混凝土剥蚀修补后,可在表面涂刷,具有耐水特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,related_to
+195,混凝土剥蚀修补后,可在表面涂刷,具有抗冲磨特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,related_to
+196,混凝土剥蚀修补后,可在表面涂刷,具有抗冻特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,related_to
+197,混凝土剥蚀修补后,可在表面涂刷,具有耐老化特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,base,,RiskOrIssue,Concept,related_to
+198,配置修补砂浆或混凝土所用水泥,强度等级不低于,42.5,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.2,,high,base,,Concept,Concept,related_to
+199,粗骨料粒径,宜为,5mm～40mm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.2,,high,base,,Concept,Concept,requires
+200,混凝土及砂浆水胶比,宜小于,0.40,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.2,,high,base,,Concept,Concept,requires
+201,界面剂,可选择,与修补材料同类的水泥净浆或砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.3,,high,base,,RepairMaterial,Concept,related_to
+202,界面剂,可选择,聚合物水泥净浆或砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.3,,high,base,,RepairMaterial,Concept,related_to
+203,界面剂,可选择,水溶性环氧类粘结剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.3,,high,base,,RepairMaterial,Concept,related_to
+204,基层混凝土表面,应凿除至,新鲜、坚硬的混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.4,,high,base,,DefectFeature,Concept,requires
+205,修补厚度大于15cm时,应布设,锚筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.4,,high,base,,Concept,Concept,requires
+206,冻融剥蚀修补材料,抗冻等级不小于,F200,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.1,,high,base,,RiskOrIssue,Concept,related_to
+207,修补材料与基层混凝土之间的黏结强度,应大于,1.0MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.1,,high,base,,Concept,Concept,requires
+208,冻融剥蚀深度小于0.5cm,宜在基面干燥后涂刷,防护涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RiskOrIssue,RepairGoal,requires
+209,冻融剥蚀深度大于0.5cm,应凿除至,新鲜、坚硬的混凝土面,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RiskOrIssue,Concept,requires
+210,小面积冻融剥蚀修补,宜采用,聚合物水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RiskOrIssue,RepairMaterial,treated_by
+211,小面积冻融剥蚀修补,宜采用,聚合物水泥砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RiskOrIssue,Concept,treated_by
+212,小面积冻融剥蚀修补,宜采用,聚合物砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RiskOrIssue,RepairMaterial,treated_by
+213,聚合物水泥砂浆修补,一次涂抹厚度不宜大于,2cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,Concept,Concept,related_to
+214,聚合物水泥混凝土修补,一次浇筑厚度不宜大于,15cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RepairMaterial,Concept,related_to
+215,基层混凝土强度等级高于C20时,宜选用,聚合物砂浆修补,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,Concept,RepairMaterial,uses_material
+216,聚合物砂浆修补,总厚度不宜大于,3cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RepairMaterial,Concept,related_to
+217,聚合物砂浆修补,施工时要求,基面混凝土干燥,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,RepairMaterial,Concept,related_to
+218,无法形成干燥条件时,应选用,亲水性界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,base,,Concept,RepairMaterial,uses_material
+219,空蚀破坏修复,应加强,修补面的体型控制,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.1,,high,base,,RiskOrIssue,Concept,requires
+220,磨损和空蚀修补,应选用,高标号抗冲磨材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RiskOrIssue,RepairMaterial,uses_material
+221,磨损和空蚀修补,应选用,高韧性抗冲磨材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RiskOrIssue,RepairMaterial,uses_material
+222,推移质冲磨破坏修补,可选用,高强硅粉水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,Concept,uses_material
+223,推移质冲磨破坏修补,可选用,高强铁矿石硅粉水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,Concept,uses_material
+224,推移质冲磨破坏修补,可选用,铁轨嵌高强混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,Concept,uses_material
+225,推移质冲磨破坏修补,可选用,高弹性抗冲磨砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,Concept,uses_material
+226,推移质冲磨破坏修补,可选用,高韧性聚合物砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,RepairMaterial,uses_material
+227,推移质冲磨破坏修补,可选用,铺设钢板,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,RepairMethod,uses_material
+228,混凝土磨损及空蚀较严重部位,宜选用,高强水泥混凝土修复,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RiskOrIssue,RepairMaterial,uses_material
+229,混凝土磨损及空蚀较严重部位,宜选用,聚合物水泥混凝土修复,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RiskOrIssue,RepairMaterial,uses_material
+230,砂浆或混凝土类修补材料与基层混凝土之间的黏结强度,应大于,2.0MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,Concept,Concept,requires
+231,表面抗冲磨防护涂料,抗拉强度应大于,20MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RepairGoal,Concept,related_to
+232,表面抗冲磨防护涂料与混凝土之间的黏结强度,应大于,2.5MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,base,,RepairGoal,Concept,requires
+233,磨损和空蚀深度小于3cm的部位,宜采用,聚合物砂浆修复,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,base,,RiskOrIssue,RepairMaterial,treated_by
+234,磨损和空蚀深度大于3cm时,凿除坑深度应大于,15cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,base,,RiskOrIssue,Concept,related_to
+235,磨损和空蚀深度大于3cm时,应布设,插筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,base,,RiskOrIssue,Concept,requires
+236,磨损和空蚀深度大于3cm时,应布设,钢筋网,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,base,,RiskOrIssue,Concept,requires
+237,钢筋锈蚀引起混凝土剥蚀的修补方法,包括,剥蚀混凝土修补,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,RiskOrIssue,RiskOrIssue,includes
+238,钢筋锈蚀引起混凝土剥蚀的修补方法,包括,涂层保护,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,RiskOrIssue,Concept,includes
+239,钢筋锈蚀引起混凝土剥蚀的修补方法,包括,使用阻锈剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,RiskOrIssue,Concept,includes
+240,薄层修补材料,宜选用,抗渗等级不低于W12的水泥砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,uses_material
+241,薄层修补材料,宜选用,聚合物水泥砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,uses_material
+242,遭受严重侵蚀的部位,可选用,聚合物砂浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,RepairMaterial,uses_material
+243,修补厚度大于10cm时,宜选用,抗渗等级不低于W12的水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,uses_material
+244,修补厚度大于10cm时,宜选用,聚合物水泥混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,RepairMaterial,uses_material
+245,有氯离子侵蚀环境中,水泥混凝土和砂浆必须掺用,钢筋阻锈剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,related_to
+246,碳化引起的钢筋锈蚀,应将,保护层全部凿除,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,RiskOrIssue,Concept,requires
+247,氯离子侵蚀引起的钢筋锈蚀,应凿除,受氯离子侵蚀损坏的混凝土,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,RiskOrIssue,Concept,requires
+248,已生锈钢筋,应进行,除锈,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+249,已生锈钢筋,应涂刷,阻锈剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+250,钢筋截面不满足设计要求时,应按设计要求,补焊钢筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+251,钢筋截面不满足设计要求时,应按设计要求,植筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+252,位于水位变化区的涂层,应具有,干湿交替环境下耐老化特性,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+253,涂层与混凝土之间的黏结强度,应满足,运行要求,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,base,,Concept,Concept,requires
+254,环氧树脂砂浆,适用于,水利水电工程混凝土建筑物修补,DL/T 5193—2021 环氧树脂砂浆技术规程,1.0.2,,high,base,,RepairMaterial,Concept,applicable_to
+255,环氧树脂砂浆,适用于,水利水电工程混凝土建筑物防护,DL/T 5193—2021 环氧树脂砂浆技术规程,1.0.2,,high,base,,RepairMaterial,RepairGoal,applicable_to
+256,环氧树脂砂浆,按用途分为,修补型(R型),DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.4,,high,base,,RepairMaterial,Concept,classified_as
+257,环氧树脂砂浆,按用途分为,防护型(P型),DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.4,,high,base,,RepairMaterial,RepairGoal,classified_as
+258,修补型(R型),用于,混凝土局部缺陷修补,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.4,,high,base,,Concept,Concept,applicable_to
+259,防护型(P型),用于,混凝土表面防护与强化,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.4,,high,base,,RepairGoal,RepairGoal,applicable_to
+260,R型环氧树脂砂浆,拉伸强度,≥6.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,related_to
+261,P型环氧树脂砂浆,拉伸强度,≥10.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,related_to
+262,R型环氧树脂砂浆,抗压强度,≥40.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,has_index_requirement
+263,P型环氧树脂砂浆,抗压强度,≥60.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,has_index_requirement
+264,环氧树脂砂浆,干基面黏结强度,≥3.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,related_to
+265,环氧树脂砂浆,潮湿基面黏结强度,≥2.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,related_to
+266,P型环氧树脂砂浆,抗冲击性,≥8次,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.4,,high,base,,RepairMaterial,Concept,has_index_requirement
+267,底涂,固含量,≥95%,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.5,,high,base,,Concept,Concept,related_to
+268,底涂,表干时间,≤6.0h,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.5,,high,base,,Concept,Concept,related_to
+269,底涂,干燥基面黏结强度,≥3.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.5,,high,base,,Concept,Concept,related_to
+270,底涂,潮湿基面黏结强度,≥2.0MPa,DL/T 5193—2021 环氧树脂砂浆技术规程,表4.0.5,,high,base,,Concept,Concept,related_to
+271,环氧树脂砂浆进场抽样检验项目,包括,拉伸强度,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.7,,high,base,,RepairMaterial,Concept,includes
+272,环氧树脂砂浆进场抽样检验项目,包括,抗压强度,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.7,,high,base,,RepairMaterial,DefectFeature,includes
+273,环氧树脂砂浆进场抽样检验项目,包括,黏结强度,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.7,,high,base,,RepairMaterial,Concept,includes
+274,底涂进场抽样检验项目,包括,表4.0.5所有项目,DL/T 5193—2021 环氧树脂砂浆技术规程,4.0.7,,high,base,,Concept,Concept,includes
+275,环氧树脂砂浆施工前,应根据…确定,施工工艺和参数,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.1,,high,base,,RepairMaterial,Concept,requires
+276,环氧树脂砂浆施工前,应编制,施工技术方案,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.1,,high,base,,RepairMaterial,Concept,requires
+277,环氧树脂砂浆施工,宜在,5℃~35℃环境条件下进行,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.2,,high,base,,RepairMaterial,Concept,requires
+278,环氧树脂砂浆施工,宜在,相对湿度小于85%的环境条件下进行,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.2,,high,base,,RepairMaterial,Concept,requires
+279,环氧树脂砂浆施工,不应在,下雨条件下露天施工,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.2,,high,base,,RepairMaterial,Concept,related_to
+280,环氧树脂砂浆施工,不应在,高温阳光直射下露天施工,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.2,,high,base,,RepairMaterial,Concept,related_to
+281,基层温度,应高于露点温度至少,3℃,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.2,,high,base,,Concept,Concept,requires
+282,环氧树脂砂浆施工工序,包括,基层处理,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.4,,high,base,,RepairMaterial,Concept,includes
+283,环氧树脂砂浆施工工序,包括,底涂涂刷,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.4,,high,base,,RepairMaterial,RepairMethod,includes
+284,环氧树脂砂浆施工工序,包括,砂浆涂覆,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.4,,high,base,,RepairMaterial,Concept,includes
+285,每道工序完成后,应,检查合格方可进入下道工序,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.4,,high,base,,Concept,InvestigationMethod,requires
+286,施工记录,应包括,项目名称,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+287,施工记录,应包括,施工时间和地点,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+288,施工记录,应包括,环境条件,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+289,施工记录,应包括,材料状态,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+290,施工记录,应包括,施工情况,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+291,施工记录,应包括,施工面积及材料用量,DL/T 5193—2021 环氧树脂砂浆技术规程,5.1.5,,high,base,,QualityEvaluation,Concept,includes
+292,基层处理,应清除,浮浆,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.1,,high,base,,Concept,Concept,requires
+293,基层处理,应清除,灰尘,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.1,,high,base,,Concept,Concept,requires
+294,基层处理,应清除,油污,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.1,,high,base,,Concept,Concept,requires
+295,基层处理,应清除,松动颗粒,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.1,,high,base,,Concept,Concept,requires
+296,处理后的基层,应露出,新鲜、坚实的混凝土,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.1,,high,base,,Concept,Concept,requires
+297,基层混凝土裂缝,应按DL/T 5315要求采用,灌浆处理,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.2,,high,base,,Defect,Concept,requires
+298,基层混凝土裂缝,应按DL/T 5315要求采用,凿槽嵌填处理,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.2,,high,base,,Defect,RepairMethod,requires
+299,基层混凝土渗水点及渗水裂缝,应按DL/T 5315要求采用,凿槽嵌填,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.3,,high,base,,Defect,RepairMethod,requires
+300,基层混凝土渗水点及渗水裂缝,应按DL/T 5315要求采用,化学灌浆,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.3,,high,base,,Defect,RepairMethod,requires
+301,基层混凝土渗水点及渗水裂缝,应按DL/T 5315要求采用,引排,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.3,,high,base,,Defect,Concept,requires
+302,环氧树脂砂浆施工前,基层表面宜,干燥,DL/T 5193—2021 环氧树脂砂浆技术规程,5.2.4,,high,base,,RepairMaterial,Concept,related_to
+303,底涂拌制,宜采用,电动搅拌器,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.1,,high,base,,Concept,Concept,treated_by
+304,底涂,涂刷方式,刷涂,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,Concept,Concept,related_to
+305,底涂,涂刷方式,辊涂,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,Concept,Concept,related_to
+306,底涂涂刷,要求,厚度均匀,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,RepairMethod,Concept,requires
+307,底涂涂刷,不得有,流挂,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,RepairMethod,Concept,related_to
+308,底涂涂刷,不得有,漏涂,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,RepairMethod,Concept,related_to
+309,底涂涂刷,不得有,堆积,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.3,,high,base,,RepairMethod,Concept,related_to
+310,底涂初凝前,应进行,环氧树脂砂浆涂覆,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.4,,high,base,,Concept,RepairMaterial,requires
+311,底涂已初凝时,应,重新涂刷,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.4,,high,base,,Concept,RepairMethod,requires
+312,底涂超过复涂时间时,应对前道底涂打毛后,重新涂刷,DL/T 5193—2021 环氧树脂砂浆技术规程,5.3.4,,high,base,,Concept,RepairMethod,requires
+313,环氧树脂砂浆涂覆顺序,宜按,先顶面、再侧面、后底面,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,RepairMaterial,Concept,requires
+314,环氧树脂砂浆涂覆顺序,宜按,先上后下,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,RepairMaterial,Concept,requires
+315,边墙和顶拱部位厚度超过10mm时,宜采用,分层涂覆,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,treated_by
+316,后层涂覆前提,前层砂浆,已硬化,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,related_to
+317,每层环氧树脂砂浆涂覆前,均需涂刷,底涂,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,RepairMaterial,Concept,related_to
+318,环氧树脂砂浆涂覆,宜按,压实、提浆、找平、收光顺序进行,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,RepairMaterial,Concept,requires
+319,环氧树脂砂浆施工完成后,养护期宜为,7d～14d,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,RepairMaterial,Concept,related_to
+320,养护期间,应避免,曝晒,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,requires
+321,养护期间,应避免,雨淋,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,requires
+322,养护期间,应避免,重压,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,requires
+323,养护期间,应避免,撞击,DL/T 5193—2021 环氧树脂砂浆技术规程,5.4.2,,high,base,,Concept,Concept,requires
+324,基层处理和底涂涂刷质量检查,方法,目测或敲击检查,DL/T 5193—2021 环氧树脂砂浆技术规程,6.1,,high,base,,RepairMethod,InvestigationMethod,related_to
+325,环氧树脂砂浆涂覆质量控制,应采用,钢针插试法进行厚度测量,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.2,,high,base,,RepairMaterial,Concept,treated_by
+326,环氧树脂砂浆外观,要求,平整,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,requires
+327,环氧树脂砂浆外观,不得有,明显搭接痕迹,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,related_to
+328,环氧树脂砂浆外观,不得有,下坠,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,related_to
+329,环氧树脂砂浆外观,不得有,裂纹,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,related_to
+330,环氧树脂砂浆外观,不得有,鼓包,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,related_to
+331,环氧树脂砂浆外观,不得有,麻面,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.3,,high,base,,RepairMaterial,Concept,related_to
+332,环氧树脂砂浆与基层黏结强度检验龄期,宜为,7d～14d,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.4,,high,base,,RepairMaterial,Concept,requires
+333,黏结强度检验,每200m²取,5个测点,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.4,,high,base,,Concept,Concept,related_to
+334,环氧树脂砂浆平均厚度,应满足,设计要求,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.5,,high,base,,RepairMaterial,Concept,requires
+335,环氧树脂砂浆最小厚度,不应小于设计厚度的,80%,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.5,,high,base,,RepairMaterial,Concept,related_to
+336,小于设计厚度的测点比例,不应超过,15%,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.5,,high,base,,Concept,Concept,related_to
+337,环氧树脂砂浆平整度检验,应采用,2m靠尺,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.6,,high,base,,RepairMaterial,Concept,treated_by
+338,平整度允许空隙,不应大于,5mm,DL/T 5193—2021 环氧树脂砂浆技术规程,6.2.6,,high,base,,Concept,Concept,related_to
+339,环氧树脂灌浆材料,用于,地基处理灌浆,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,1.0.2,,high,base,,RepairMaterial,Concept,applicable_to
+340,环氧树脂灌浆材料,用于,混凝土缺陷修复灌浆,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,1.0.2,,high,base,,RepairMaterial,Concept,applicable_to
+341,环氧树脂灌浆材料,定义,用于灌浆中以环氧树脂为主剂的双组分材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,2.0.2,,high,base,,RepairMaterial,Concept,defined_as
+342,环氧树脂灌浆材料,应符合,安全与环保要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.1.3,,high,base,,RepairMaterial,Concept,requires
+343,饮水或灌溉工程用环氧树脂灌浆材料,应满足,实际无毒要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.1.3,,high,base,,RepairMaterial,Concept,requires
+344,环氧树脂灌浆材料外观,要求,浆液双组分及混合后浆液均匀、无分层,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.2.1,,high,base,,RepairMaterial,Concept,requires
+345,用于地基处理的环氧树脂灌浆材料,密度,>1.00g/cm³,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+346,用于混凝土缺陷修复的环氧树脂灌浆材料,密度,>1.00g/cm³,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+347,用于地基处理的环氧树脂灌浆材料,初始黏度,<30mPa·s,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+348,用于混凝土缺陷修复的环氧树脂灌浆材料,初始黏度,<200mPa·s,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+349,用于地基处理的环氧树脂灌浆材料,可操作时间,>120min,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+350,用于混凝土缺陷修复的环氧树脂灌浆材料,可操作时间,>30min,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+351,用于地基处理的环氧树脂灌浆材料,接触角,<25.0°,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.2,,high,base,,RepairMaterial,Concept,has_index_requirement
+352,环氧树脂灌浆材料固化物,抗压强度,≥40.0MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,has_index_requirement
+353,环氧树脂灌浆材料固化物,拉伸剪切强度,≥5.0MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,has_index_requirement
+354,环氧树脂灌浆材料固化物,抗拉强度,≥10.0MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,has_index_requirement
+355,环氧树脂灌浆材料固化物,干粘结强度,≥3.0MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,has_index_requirement
+356,环氧树脂灌浆材料固化物,湿粘结强度,≥2.0MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,has_index_requirement
+357,环氧树脂灌浆材料固化物,抗渗性能,≥1.5MPa,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表3.2.3,,high,base,,RepairMaterial,Concept,related_to
+358,环氧树脂灌浆材料性能检验,分为,出厂检验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,RepairMaterial,Concept,classified_as
+359,环氧树脂灌浆材料性能检验,分为,型式检验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,RepairMaterial,Concept,classified_as
+360,环氧树脂灌浆材料性能检验,分为,现场检验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,RepairMaterial,Concept,classified_as
+361,出厂检验项目,包括,外观,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,Concept,includes
+362,出厂检验项目,包括,初始黏度,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,Concept,includes
+363,出厂检验项目,包括,可操作时间,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,DefectFeature,includes
+364,出厂检验项目,包括,固化物抗压强度,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,DefectFeature,includes
+365,出厂检验项目,包括,固化物抗拉强度,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,DefectFeature,includes
+366,现场检验项目,包括,外观,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,Concept,includes
+367,现场检验项目,包括,密度,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,DefectFeature,includes
+368,现场检验项目,包括,初始黏度,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,Concept,includes
+369,现场检验项目,包括,可操作时间,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,3.3.1,,high,base,,Concept,DefectFeature,includes
+370,环氧树脂灌浆材料应用设计,应根据,工程特点,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.1,,high,base,,RepairMaterial,Concept,requires
+371,环氧树脂灌浆材料应用设计,应根据,灌浆目的,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.1,,high,base,,RepairMaterial,Concept,requires
+372,环氧树脂灌浆材料应用设计,应根据,材料性能要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.1,,high,base,,RepairMaterial,Concept,requires
+373,环氧树脂灌浆材料应用设计,宜包括,受灌体特性与灌浆目的,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.2,,high,base,,RepairMaterial,Concept,requires
+374,环氧树脂灌浆材料应用设计,宜包括,灌浆材料性能指标要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.2,,high,base,,RepairMaterial,Concept,requires
+375,环氧树脂灌浆材料应用设计,宜包括,灌浆技术要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.2,,high,base,,RepairMaterial,Concept,requires
+376,环氧树脂灌浆材料应用设计,宜包括,灌浆质量标准和检查方法,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.2,,high,base,,RepairMaterial,InvestigationMethod,requires
+377,环氧树脂灌浆材料应用于混凝土缺陷修复的材料选择,应根据,混凝土缺陷性状,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,RepairMaterial,Concept,requires
+378,不大于0.2mm的裂缝,宜选用,低黏度(<30mPa·s)环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Defect,RepairMaterial,uses_material
+379,0.2mm以上的裂缝,宜选用,中等黏度(<200mPa·s)环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Defect,RepairMaterial,uses_material
+380,潮湿和渗水环境下的混凝土裂缝处理,应选择,不易被水稀释的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Defect,RepairMaterial,requires
+381,潮湿和渗水环境下的混凝土裂缝处理,应选择,固化快的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Defect,RepairMaterial,requires
+382,潮湿和渗水环境下的混凝土裂缝处理,应选择,湿粘结强度高的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Defect,RepairMaterial,requires
+383,灌后混凝土,应满足,相应的强度要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Concept,Concept,requires
+384,灌后混凝土,应满足,相应的抗渗性要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,base,,Concept,Concept,requires
+385,灌浆试验,应论证,应用环氧树脂灌浆材料的可行性,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,RepairMaterial,requires
+386,灌浆试验,应推荐,最优浆液配比,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+387,灌浆试验,应评价,环氧树脂灌浆材料与受灌体的适应性,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,RepairMaterial,requires
+388,灌浆试验,应推荐,适宜的灌浆方法,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+389,灌浆试验,应推荐,适宜的灌浆孔布置参数,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+390,灌浆试验,应推荐,灌浆工艺参数,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+391,灌浆试验,应推荐,结束标准,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+392,灌浆试验,应评价,灌后受灌体的物理力学特性和抗渗透变形能力,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+393,灌浆试验,应研究,适合工程特点与要求的灌浆质量检查方法,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,InvestigationMethod,requires
+394,灌浆试验,应分析,灌浆工效、进度、工程造价,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.1,,high,base,,InvestigationMethod,Concept,requires
+395,灌浆试验前,应进行,环氧树脂灌浆材料配比试验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.3.3,,high,base,,InvestigationMethod,RepairMaterial,requires
+396,环氧树脂灌浆,宜采用,纯压式灌浆方式,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.1.4,,high,base,,Concept,Concept,treated_by
+397,应用于混凝土缺陷修复的环氧树脂灌浆工艺参数选择,原则,灌浆压力不应大于受灌体破坏压力,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.4.2,,high,base,,Concept,DefectFeature,has_principle
+398,混凝土缺陷修复灌浆结束标准,在最大设计压力下注入率小于,0.01L/min,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.4.2,,high,base,,Concept,Concept,related_to
+399,混凝土缺陷修复灌浆结束标准,继续灌注,10～30min,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.4.2,,high,base,,Concept,Concept,related_to
+400,环氧树脂灌浆材料施工,应编制,施工组织设计,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.1,,high,base,,RepairMaterial,Concept,requires
+401,施工组织设计,应包括,灌浆方案及工艺,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.1,,high,base,,Concept,Concept,includes
+402,施工组织设计,应包括,材料和配浆方法,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.1,,high,base,,Concept,Concept,includes
+403,施工组织设计,应包括,质量检查及验收标准,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.1,,high,base,,Concept,InvestigationMethod,includes
+404,灌浆过程中,应不定时检测,浆液黏度等参数,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.2,,high,base,,Concept,Concept,requires
+405,当灌浆施工环境温度高于35℃或低于5℃时,应采取,相应的温度控制措施,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.3,,high,base,,Concept,Concept,requires
+406,浆液配制和灌浆全过程,应做好,记录,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.5,,high,base,,Concept,Concept,requires
+407,环氧树脂灌浆材料应用质量检查,应以,现场检查成果为主,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,6.0.1,,high,base,,RepairMaterial,InvestigationMethod,requires
+408,环氧树脂灌浆材料应用质量检查,应以,施工记录资料等检查为辅,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,6.0.1,,high,base,,RepairMaterial,InvestigationMethod,requires
+409,灌浆质量检查重点部位,包括,渗漏严重的部位,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,6.0.2,,high,base,,InvestigationMethod,Defect,includes
+410,灌浆质量检查重点部位,包括,结构受力关键部位,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,6.0.2,,high,base,,InvestigationMethod,Concept,includes
+411,灌浆质量检查重点部位,包括,潜在的质量缺陷部位,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,6.0.2,,high,base,,InvestigationMethod,Concept,includes
+412,混凝土受灌体质量检查方法,包括,超声波测试,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表6.0.4,,high,base,,InvestigationMethod,InvestigationMethod,includes
+413,混凝土受灌体质量检查方法,包括,钻孔取芯、压水试验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表6.0.4,,high,base,,InvestigationMethod,RepairMethod,includes
+414,混凝土受灌体质量检查方法,包括,孔内电视录像,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表6.0.4,,high,base,,InvestigationMethod,InvestigationMethod,includes
+415,混凝土受灌体质量检查方法,包括,混凝土芯样物理力学试验,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,表6.0.4,,high,base,,InvestigationMethod,InvestigationMethod,includes
+416,聚氨酯灌浆材料,适用于,混凝土结构渗漏水治理工程,JC/T 2041—2020 聚氨酯灌浆材料,1,,high,base,,RepairMaterial,Defect,applicable_to
+417,聚氨酯灌浆材料,适用于,基础加固工程,JC/T 2041—2020 聚氨酯灌浆材料,1,,high,base,,RepairMaterial,Concept,applicable_to
+418,聚氨酯灌浆材料,适用于,帷幕防渗工程,JC/T 2041—2020 聚氨酯灌浆材料,1,,high,base,,RepairMaterial,Concept,applicable_to
+419,聚氨酯灌浆材料,定义,以预聚体为主剂并与水反应生成固结体的灌浆材料,JC/T 2041—2020 聚氨酯灌浆材料,3.1,,high,base,,RepairMaterial,Concept,defined_as
+420,聚氨酯灌浆材料,按性能分为,亲水型聚氨酯灌浆材料(WPU),JC/T 2041—2020 聚氨酯灌浆材料,4.1,,high,base,,RepairMaterial,RepairMaterial,classified_as
+421,聚氨酯灌浆材料,按性能分为,疏水型聚氨酯灌浆材料(OPU),JC/T 2041—2020 聚氨酯灌浆材料,4.1,,high,base,,RepairMaterial,RepairMaterial,classified_as
+422,亲水型聚氨酯灌浆材料(WPU),分为,I型,JC/T 2041—2020 聚氨酯灌浆材料,4.1,,high,base,,RepairMaterial,Concept,classified_as
+423,亲水型聚氨酯灌浆材料(WPU),分为,Ⅱ型,JC/T 2041—2020 聚氨酯灌浆材料,4.1,,high,base,,RepairMaterial,Concept,classified_as
+424,聚氨酯灌浆材料,外观要求,均匀的液体、无杂质、不分层,JC/T 2041—2020 聚氨酯灌浆材料,6.1,,high,base,,RepairMaterial,Concept,related_to
+425,WPU I型,密度,≥1.00g/cm³,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+426,WPU Ⅱ型,密度,≥1.00g/cm³,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+427,OPU,密度,≥1.05g/cm³,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+428,WPU I型,黏度,≤1000mPa·s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+429,WPU Ⅱ型,黏度,≤1000mPa·s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+430,OPU,黏度,≤1000mPa·s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+431,WPU I型,凝胶时间(20倍水),≤180s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,related_to
+432,WPU Ⅱ型,凝胶时间(10倍水),≤120s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,related_to
+433,OPU,凝固时间,≤800s,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,related_to
+434,WPU I型,不挥发物含量,≥78.0%,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+435,WPU Ⅱ型,不挥发物含量,≥80.0%,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+436,OPU,不挥发物含量,≥80.0%,JC/T 2041—2020 聚氨酯灌浆材料,表1,,high,base,,Concept,Concept,has_index_requirement
+437,WPU I型,包水性,≥20倍水,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+438,WPU Ⅱ型,包水性,≥10倍水,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+439,WPU I型,亲水性,20倍水条件下固结体乳白、均匀、无颗粒及无雪花状,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+440,WPU Ⅱ型,亲水性,10倍水条件下固结体乳白、均匀、无颗粒及无雪花状,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+441,WPU Ⅱ型,发泡率,≥350%,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+442,OPU,发泡率,≥1000%,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+443,WPU I型,遇水膨胀率,≥40%,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+444,WPU Ⅱ型,遇水膨胀率,≥30%,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,related_to
+445,OPU,抗压强度,≥15MPa,JC/T 2041—2020 聚氨酯灌浆材料,表2,,high,base,,Concept,Concept,has_index_requirement
+446,聚氨酯灌浆材料,VOC限量,≤300g/L,JC/T 2041—2020 聚氨酯灌浆材料,表3,,high,base,,RepairMaterial,Concept,related_to
+447,聚氨酯灌浆材料,苯限量,≤200mg/kg,JC/T 2041—2020 聚氨酯灌浆材料,表3,,high,base,,RepairMaterial,Concept,related_to
+448,聚氨酯灌浆材料,甲苯+乙苯+二甲苯限量,≤5.0g/kg,JC/T 2041—2020 聚氨酯灌浆材料,表3,,high,base,,RepairMaterial,Concept,related_to
+449,聚氨酯灌浆材料,卤代烷烃限量,≤5.0g/kg,JC/T 2041—2020 聚氨酯灌浆材料,表3,,high,base,,RepairMaterial,Concept,related_to
+450,凝胶时间,定义,亲水型聚氨酯灌浆材料与一定比例的水混合后由液体变为固结体的时间,JC/T 2041—2020 聚氨酯灌浆材料,3.4,,high,base,,DefectFeature,RepairMaterial,defined_as
+451,凝固时间,定义,疏水型聚氨酯灌浆材料与一定比例的催化剂和水混合后由液体变为固结体的时间,JC/T 2041—2020 聚氨酯灌浆材料,3.5,,high,base,,Concept,RepairMaterial,defined_as
+452,包水性,定义,参与反应且胶凝的水量与亲水型聚氨酯灌浆材料之比,JC/T 2041—2020 聚氨酯灌浆材料,3.6,,high,base,,Concept,RepairMaterial,defined_as
+453,发泡率,定义,固结体相对于原浆液的体积增长率,JC/T 2041—2020 聚氨酯灌浆材料,3.7,,high,base,,Concept,Concept,defined_as
+454,亲水性,定义,亲水型聚氨酯灌浆材料与水反应以后固结体的均匀程度,JC/T 2041—2020 聚氨酯灌浆材料,3.8,,high,base,,Concept,RepairMaterial,defined_as
+455,遇水膨胀率,定义,亲水型聚氨酯灌浆材料固结体浸泡水后体积膨胀的百分数,JC/T 2041—2020 聚氨酯灌浆材料,3.9,,high,base,,Concept,RepairMaterial,defined_as
+456,养护修理内容,包括,检查,SL 230—2015 混凝土坝养护修理规程,1.0.3,,high,base,,Concept,InvestigationMethod,includes
+457,养护修理内容,包括,养护,SL 230—2015 混凝土坝养护修理规程,1.0.3,,high,base,,Concept,Concept,includes
+458,养护修理内容,包括,修理,SL 230—2015 混凝土坝养护修理规程,1.0.3,,high,base,,Concept,Concept,includes
+459,养护与修理工作,原则,经常养护，随时维修，养重于修，修重于抢,SL 230—2015 混凝土坝养护修理规程,1.0.4,,high,base,,Concept,Concept,has_principle
+460,修理工作程序,包括,工程损坏调查,SL 230—2015 混凝土坝养护修理规程,1.0.5,,high,base,,Concept,InvestigationMethod,includes
+461,修理工作程序,包括,修理方案制定与报批,SL 230—2015 混凝土坝养护修理规程,1.0.5,,high,base,,Concept,Concept,includes
+462,修理工作程序,包括,实施,SL 230—2015 混凝土坝养护修理规程,1.0.5,,high,base,,Concept,Concept,includes
+463,修理工作程序,包括,验收,SL 230—2015 混凝土坝养护修理规程,1.0.5,,high,base,,Concept,QualityEvaluation,includes
+464,裂缝修补前,应开展,裂缝调查,SL 230—2015 混凝土坝养护修理规程,5.1.2,,high,base,,Defect,InvestigationMethod,requires
+465,裂缝修补前,应判定,裂缝类型,SL 230—2015 混凝土坝养护修理规程,5.1.2,,high,base,,Defect,DefectFeature,requires
+466,静止裂缝,可即时进行,修补,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,base,,DefectFeature,Concept,related_to
+467,静止裂缝,应根据…选择,修补材料,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+468,静止裂缝,应根据…选择,修补方法,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+469,活动裂缝,应先,消除成因,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,base,,DefectFeature,Concept,requires
+470,活动裂缝,确认稳定后,按静止裂缝方法修补,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,base,,DefectFeature,DefectFeature,related_to
+471,SCN_裂缝修补前,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Concept,instance_of
+472,SCN_裂缝修补前,has_stage,修补前,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Concept,has_stage
+473,SCN_裂缝修补前,has_defect,混凝土裂缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Defect,has_defect
+474,SCN_裂缝修补前,requires,收集裂缝相关资料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Defect,requires
+475,SCN_裂缝修补前,requires,裂缝分类,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Defect,requires
+476,SCN_裂缝修补前,requires,裂缝评估,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Defect,requires
+477,SCN_裂缝修补前,requires,明确修补范围与规模,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,DefectFeature,requires
+478,SCN_裂缝修补前,requires,明确修补方法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,Concept,requires
+479,SCN_裂缝修补前,requires,明确质量合格标准,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.1.3,,high,scenario,SCN_裂缝修补前,RepairScenario,QualityEvaluation,requires
+480,SCN_裂缝规模较大,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,scenario,SCN_裂缝规模较大,RepairScenario,Concept,instance_of
+481,SCN_裂缝规模较大,has_defect,混凝土裂缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,scenario,SCN_裂缝规模较大,RepairScenario,Defect,has_defect
+482,SCN_裂缝规模较大,has_condition,裂缝规模较大,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,scenario,SCN_裂缝规模较大,RepairScenario,DefectFeature,has_condition
+483,SCN_裂缝规模较大,treated_by,分区灌浆,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.3,,high,scenario,SCN_裂缝规模较大,RepairScenario,RepairMethod,treated_by
+484,SCN_裂缝灌浆后表面封闭,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,scenario,SCN_裂缝灌浆后表面封闭,RepairScenario,Concept,instance_of
+485,SCN_裂缝灌浆后表面封闭,has_stage,裂缝灌浆后,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,scenario,SCN_裂缝灌浆后表面封闭,RepairScenario,Defect,has_stage
+486,SCN_裂缝灌浆后表面封闭,has_goal,表面封闭,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,scenario,SCN_裂缝灌浆后表面封闭,RepairScenario,RepairMethod,has_goal
+487,SCN_裂缝灌浆后表面封闭,treated_by,涂刷法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,scenario,SCN_裂缝灌浆后表面封闭,RepairScenario,RepairMethod,treated_by
+488,SCN_裂缝灌浆后表面封闭,treated_by,粘贴法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,5.3.4,,high,scenario,SCN_裂缝灌浆后表面封闭,RepairScenario,RepairMethod,treated_by
+489,SCN_背水面渗漏裂缝_凿槽嵌填,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,scenario,SCN_背水面渗漏裂缝_凿槽嵌填,RepairScenario,Concept,instance_of
+490,SCN_背水面渗漏裂缝_凿槽嵌填,has_defect,背水面渗漏裂缝,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,scenario,SCN_背水面渗漏裂缝_凿槽嵌填,RepairScenario,Location,has_defect
+491,SCN_背水面渗漏裂缝_凿槽嵌填,treated_by,凿槽嵌填法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,scenario,SCN_背水面渗漏裂缝_凿槽嵌填,RepairScenario,RepairMethod,treated_by
+492,SCN_背水面渗漏裂缝_凿槽嵌填,requires,临时封堵措施,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.2.2,,high,scenario,SCN_背水面渗漏裂缝_凿槽嵌填,RepairScenario,Concept,requires
+493,SCN_集中渗漏_低水压,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_低水压,RepairScenario,Concept,instance_of
+494,SCN_集中渗漏_低水压,has_defect,集中渗漏,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_低水压,RepairScenario,DefectFeature,has_defect
+495,SCN_集中渗漏_低水压,has_condition,水压≤0.1MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_低水压,RepairScenario,DefectFeature,has_condition
+496,SCN_集中渗漏_低水压,treated_by,直接堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_低水压,RepairScenario,RepairMethod,treated_by
+497,SCN_集中渗漏_低水压,treated_by,导管堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_低水压,RepairScenario,RepairMethod,treated_by
+498,SCN_集中渗漏_高水压,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_高水压,RepairScenario,Concept,instance_of
+499,SCN_集中渗漏_高水压,has_defect,集中渗漏,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_高水压,RepairScenario,DefectFeature,has_defect
+500,SCN_集中渗漏_高水压,has_condition,水压>0.1MPa,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_高水压,RepairScenario,DefectFeature,has_condition
+501,SCN_集中渗漏_高水压,treated_by,灌浆堵漏法,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.1,,high,scenario,SCN_集中渗漏_高水压,RepairScenario,RepairMethod,treated_by
+502,SCN_渗漏量很大,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,scenario,SCN_渗漏量很大,RepairScenario,Concept,instance_of
+503,SCN_渗漏量很大,has_defect,集中渗漏,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,scenario,SCN_渗漏量很大,RepairScenario,DefectFeature,has_defect
+504,SCN_渗漏量很大,has_condition,渗漏量很大,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,scenario,SCN_渗漏量很大,RepairScenario,DefectFeature,has_condition
+505,SCN_渗漏量很大,treated_by,周边斜孔引排,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,6.4.4,,high,scenario,SCN_渗漏量很大,RepairScenario,Concept,treated_by
+506,SCN_潮湿渗水环境下裂缝处理,instance_of,RepairScenario,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,Concept,instance_of
+507,SCN_潮湿渗水环境下裂缝处理,has_defect,混凝土裂缝,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,Defect,has_defect
+508,SCN_潮湿渗水环境下裂缝处理,has_condition,潮湿和渗水环境,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,Concept,has_condition
+509,SCN_潮湿渗水环境下裂缝处理,requires,不易被水稀释的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,RepairMaterial,requires
+510,SCN_潮湿渗水环境下裂缝处理,requires,固化快的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,RepairMaterial,requires
+511,SCN_潮湿渗水环境下裂缝处理,requires,湿粘结强度高的环氧树脂灌浆材料,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,RepairMaterial,requires
+512,SCN_潮湿渗水环境下裂缝处理,requires,灌后混凝土满足相应强度要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,Concept,requires
+513,SCN_潮湿渗水环境下裂缝处理,requires,灌后混凝土满足相应抗渗性要求,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,4.2.3,,high,scenario,SCN_潮湿渗水环境下裂缝处理,RepairScenario,Concept,requires
+514,SCN_高温低温环氧灌浆施工,instance_of,RepairScenario,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.3,,high,scenario,SCN_高温低温环氧灌浆施工,RepairScenario,Concept,instance_of
+515,SCN_高温低温环氧灌浆施工,has_method,环氧树脂灌浆施工,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.3,,high,scenario,SCN_高温低温环氧灌浆施工,RepairScenario,Concept,related_to
+516,SCN_高温低温环氧灌浆施工,has_condition,环境温度>35℃或<5℃,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.3,,high,scenario,SCN_高温低温环氧灌浆施工,RepairScenario,Concept,has_condition
+517,SCN_高温低温环氧灌浆施工,requires,采取相应的温度控制措施,SL/T 807—2021 水工建筑物环氧树脂灌浆材料技术规范,5.1.3,,high,scenario,SCN_高温低温环氧灌浆施工,RepairScenario,Concept,requires
+518,SCN_无法形成干燥条件,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,scenario,SCN_无法形成干燥条件,RepairScenario,Concept,instance_of
+519,SCN_无法形成干燥条件,has_condition,无法形成干燥条件,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,scenario,SCN_无法形成干燥条件,RepairScenario,Concept,has_condition
+520,SCN_无法形成干燥条件,uses_material,亲水性界面剂,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.2.2,,high,scenario,SCN_无法形成干燥条件,RepairScenario,RepairMaterial,uses_material
+521,SCN_修补厚度大于15cm,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.4,,high,scenario,SCN_修补厚度大于15cm,RepairScenario,Concept,instance_of
+522,SCN_修补厚度大于15cm,has_condition,修补厚度>15cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.4,,high,scenario,SCN_修补厚度大于15cm,RepairScenario,Concept,has_condition
+523,SCN_修补厚度大于15cm,requires,布设锚筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.4,,high,scenario,SCN_修补厚度大于15cm,RepairScenario,Concept,requires
+524,SCN_磨损空蚀深度大于3cm,instance_of,RepairScenario,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,Concept,instance_of
+525,SCN_磨损空蚀深度大于3cm,has_defect,磨损和空蚀,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,RiskOrIssue,has_defect
+526,SCN_磨损空蚀深度大于3cm,has_condition,深度>3cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,Concept,has_condition
+527,SCN_磨损空蚀深度大于3cm,requires,凿除坑深度>15cm,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,Concept,requires
+528,SCN_磨损空蚀深度大于3cm,requires,布设插筋,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,Concept,requires
+529,SCN_磨损空蚀深度大于3cm,requires,布设钢筋网,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.3,,high,scenario,SCN_磨损空蚀深度大于3cm,RepairScenario,Concept,requires
+530,SCN_静止裂缝修补,instance_of,RepairScenario,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_静止裂缝修补,RepairScenario,Concept,instance_of
+531,SCN_静止裂缝修补,has_defect,静止裂缝,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_静止裂缝修补,RepairScenario,DefectFeature,has_defect
+532,SCN_静止裂缝修补,treated_by,可即时修补,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_静止裂缝修补,RepairScenario,Concept,treated_by
+533,SCN_静止裂缝修补,requires,根据裂缝性质选择修补材料,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_静止裂缝修补,RepairScenario,Defect,requires
+534,SCN_静止裂缝修补,requires,根据裂缝性质选择修补方法,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_静止裂缝修补,RepairScenario,Defect,requires
+535,SCN_活动裂缝修补,instance_of,RepairScenario,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_活动裂缝修补,RepairScenario,Concept,instance_of
+536,SCN_活动裂缝修补,has_defect,活动裂缝,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_活动裂缝修补,RepairScenario,DefectFeature,has_defect
+537,SCN_活动裂缝修补,requires,先消除成因,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_活动裂缝修补,RepairScenario,Concept,requires
+538,SCN_活动裂缝修补,requires,确认裂缝稳定,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_活动裂缝修补,RepairScenario,Defect,requires
+539,SCN_活动裂缝修补,treated_by,SCN_静止裂缝修补,SL 230—2015 混凝土坝养护修理规程,5.1.3,,high,scenario,SCN_活动裂缝修补,RepairScenario,RepairScenario,treated_by
+540,ELSY_面板缺陷检查,instance_of,面板堆石坝面板检查与检修案例,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,Case,Case,instance_of
+541,ELSY_面板缺陷检查,investigated_by,无人机高清图像普查,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,Case,InvestigationMethod,investigated_by
+542,ELSY_面板缺陷检查,investigated_by,人工详查,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,Case,InvestigationMethod,investigated_by
+543,ELSY_面板缺陷检查,applicable_to,高程185m以上面板,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,Case,Location,applicable_to
+544,ELSY_面板缺陷检查,applicable_to,外露趾板,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,Case,Location,applicable_to
+545,无人机高清图像普查,used_for,面板破损识别,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,Location,used_for
+546,无人机高清图像普查,used_for,裂缝识别,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,Defect,used_for
+547,无人机高清图像普查,used_for,止水缺损识别,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,Concept,used_for
+548,无人机高清图像普查,used_for,挤压破坏识别,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,RiskOrIssue,used_for
+549,人工详查,used_for,长大裂缝复查,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,Defect,used_for
+550,人工详查,used_for,面板破损复查,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,Location,used_for
+551,人工详查,used_for,挤压破坏复查,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,RiskOrIssue,used_for
+552,高精度裂缝测宽仪,used_for,裂缝宽度检测,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,InvestigationMethod,used_for
+553,混凝土裂缝综合检测仪,used_for,裂缝深度检测,额勒赛下游水电项目上电站大坝面板检修方案,2.2,,high,case,,InvestigationMethod,InvestigationMethod,used_for
+554,ELSY_铺盖区检查,investigated_by,多波束测深系统,额勒赛下游水电项目上电站大坝面板检修方案,2.3,,high,case,,Case,InvestigationMethod,investigated_by
+555,ELSY_铺盖区检查,verified_by,水下摄像,额勒赛下游水电项目上电站大坝面板检修方案,2.3,,high,case,,Case,InvestigationMethod,verified_by
+556,ELSY_铺盖区检查,applicable_to,坝前铺盖区,额勒赛下游水电项目上电站大坝面板检修方案,2.3,,high,case,,Case,Location,applicable_to
+557,ELSY_铺盖区检查,applicable_to,两岸趾板部位,额勒赛下游水电项目上电站大坝面板检修方案,2.3,,high,case,,Case,Location,applicable_to
+558,ELSY_22_24面板底部破损区,occurs_at,右岸22#～24#面板底部靠近垂直缝部位,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,Location,occurs_at
+559,ELSY_22_24面板底部破损区,has_defect,面板挤压破损,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,Location,has_defect
+560,ELSY_22_24面板底部破损区,has_defect,贯穿性裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,DefectFeature,has_defect
+561,ELSY_22_24面板底部破损区,treated_by,破损面板恢复,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,Location,treated_by
+562,ELSY_22_24面板底部破损区,treated_by,垫层灌浆,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,Concept,treated_by
+563,ELSY_22_24面板底部破损区,treated_by,面板贯穿裂缝防渗处理,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,Location,treated_by
+564,ELSY_22_24面板底部破损区,treated_by,表面柔性封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Case,RepairMethod,treated_by
+565,面板挤压破损,may_lead_to,失去整体性,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RiskOrIssue,may_lead_to
+566,贯穿性裂缝,may_lead_to,面板渗漏通道,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,DefectFeature,Location,may_lead_to
+567,贯穿性裂缝,may_lead_to,结构整体性降低,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,DefectFeature,RiskOrIssue,may_lead_to
+568,裂缝渗漏与面板结构破坏相互作用,may_lead_to,更大程度的面板破损,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Location,may_lead_to
+569,面板拆除恢复,requires,保留两侧垂直缝铜止水,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Location,requires
+570,面板拆除恢复,requires,保留底部周边缝下部铜止水,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Location,requires
+571,垫层细颗粒流失,treated_by,改性垫层料置换,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RiskOrIssue,Concept,treated_by
+572,垫层灌浆,uses_material,水泥粉煤灰浆液,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Concept,RepairMaterial,uses_material
+573,垫层灌浆,uses_material,水泥黏土浆液,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Concept,RepairMaterial,uses_material
+574,垫层灌浆封孔,uses_material,环氧砂浆,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RepairMethod,RepairMaterial,uses_material
+575,垫层灌浆封孔,uses_material,手刮聚脲,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RepairMethod,RepairMaterial,uses_material
+576,面板贯穿裂缝处理,requires_precondition,垫层灌浆完成,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Concept,requires_precondition
+577,面板贯穿裂缝处理,treated_by,切割并凿槽,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMethod,treated_by
+578,面板贯穿裂缝处理,treated_by,缝槽清洗和干燥,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Concept,treated_by
+579,面板贯穿裂缝处理,uses_material,弹性环氧胶泥配套界面剂,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMaterial,uses_material
+580,面板贯穿裂缝处理,uses_material,环氧胶泥,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMaterial,uses_material
+581,面板贯穿裂缝处理,uses_material,手刮聚脲,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMaterial,uses_material
+582,缝槽宽度,has_value,10cm,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Concept,Concept,has_index_requirement
+583,缝槽深度,has_value,8-10cm,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Concept,Concept,has_index_requirement
+584,手刮聚脲封闭层,has_value,2mm,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RepairMaterial,Concept,has_index_requirement
+585,周边缝止水恢复,applicable_to,23#、24#和27#面板底部周边缝,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,Location,applicable_to
+586,周边缝止水,has_defect,破损,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RiskOrIssue,has_defect
+587,周边缝止水恢复,treated_by,按原设计鼓包恢复,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMethod,treated_by
+588,周边缝止水恢复,uses_material,聚脲封闭涂层,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,Location,RepairMaterial,uses_material
+589,表面柔性封闭,uses_material,复合土工膜,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RepairMethod,RepairMaterial,uses_material
+590,表面柔性封闭,has_goal,提高面板结构防渗耐久性,额勒赛下游水电项目上电站大坝面板检修方案,2.4,,high,case,,RepairMethod,Location,has_goal
+591,弹性环氧胶泥,has_index_requirement,可操作性时间170min,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,Concept,has_index_requirement
+592,弹性环氧胶泥,has_index_requirement,固化时间约540min,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+593,弹性环氧胶泥,has_index_requirement,拉伸强度3.8MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,Concept,has_index_requirement
+594,弹性环氧胶泥,has_index_requirement,拉伸断裂伸长率240%,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+595,弹性环氧胶泥,has_index_requirement,与湿混凝土面粘接强度>3.0MPa或胶体拉伸破坏,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,Concept,has_index_requirement
+596,弹性环氧胶泥,has_index_requirement,与干混凝土面粘接强度>3.5MPa或胶体拉伸破坏,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-1,,high,case,,RepairMaterial,Concept,has_index_requirement
+597,复合土工膜,has_index_requirement,单位面积质量≥1600g/m2,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+598,复合土工膜,has_index_requirement,膜厚0.8mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+599,复合土工膜,has_index_requirement,纵横向断裂强度≥18.0kN/m,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+600,复合土工膜,has_index_requirement,纵横向标准强度对应伸长率≥80%,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+601,复合土工膜,has_index_requirement,CBR顶破强力≥3.0kN,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+602,复合土工膜,has_index_requirement,纵横向撕破强力≥0.62kN,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+603,复合土工膜,has_index_requirement,耐静水压≥1.0MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+604,复合土工膜,has_index_requirement,剥离强度≥6N/cm,额勒赛下游水电项目上电站大坝面板检修方案,表2.4-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+605,ELSY_垂直缝顶部止水更换,occurs_at,高程185.0m～235.0m垂直缝顶部,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Case,Location,occurs_at
+606,垂直缝顶部止水结构,has_defect,盖片表面破损,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Location,RiskOrIssue,has_defect
+607,垂直缝顶部止水结构,has_defect,不锈钢压条锈蚀破坏,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Location,RepairMaterial,has_defect
+608,ELSY_垂直缝顶部止水更换,treated_by,原止水结构拆除,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Case,RepairMethod,treated_by
+609,ELSY_垂直缝顶部止水更换,treated_by,基面清理及打磨,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Case,RepairMethod,treated_by
+610,ELSY_垂直缝顶部止水更换,treated_by,塑性填料修复,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Case,RepairMaterial,treated_by
+611,ELSY_垂直缝顶部止水更换,treated_by,聚脲涂层施工,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,Case,RepairMaterial,treated_by
+612,原止水结构拆除,uses_material,环氧砂浆填塞螺栓孔洞,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMethod,RepairMaterial,uses_material
+613,塑性填料修复,uses_material,薄片状塑性填料,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMaterial,RepairMaterial,uses_material
+614,聚脲涂层施工,uses_material,界面剂,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMaterial,RepairMaterial,uses_material
+615,聚脲涂层施工,uses_material,胎基布,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMaterial,RepairMaterial,uses_material
+616,聚脲涂层施工,uses_material,聚脲,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMaterial,RepairMaterial,uses_material
+617,聚脲涂层总厚度,has_value,4mm,额勒赛下游水电项目上电站大坝面板检修方案,2.5,,high,case,,RepairMaterial,Concept,has_index_requirement
+618,ELSY_面板裂缝分类,classified_as,A类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.1,,high,case,,Case,DefectFeature,classified_as
+619,ELSY_面板裂缝分类,classified_as,B类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.1,,high,case,,Case,DefectFeature,classified_as
+620,ELSY_面板裂缝分类,classified_as,C类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.1,,high,case,,Case,DefectFeature,classified_as
+621,ELSY_面板裂缝分类,classified_as,D类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.1,,high,case,,Case,DefectFeature,classified_as
+622,A类裂缝,defined_as,龟裂或细微裂缝,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,defined_as
+623,A类裂缝,has_index_requirement,缝宽<0.2mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+624,A类裂缝,has_index_requirement,缝深<300mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+625,B类裂缝,defined_as,表面或浅层裂缝,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,defined_as
+626,B类裂缝,has_index_requirement,0.2mm≤缝宽<0.3mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+627,B类裂缝,has_index_requirement,300mm≤缝深<1000mm且不超过结构厚度1/4,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+628,C类裂缝,defined_as,深层裂缝,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,defined_as
+629,C类裂缝,has_index_requirement,0.3mm≤缝宽<0.4mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+630,C类裂缝,has_index_requirement,1000mm≤缝深<2000mm或大于结构厚度1/4,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+631,D类裂缝,defined_as,贯穿性裂缝,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,defined_as
+632,D类裂缝,has_index_requirement,缝宽≥0.4mm,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+633,D类裂缝,has_index_requirement,缝深≥2000mm或大于2/3结构厚度,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-1,,high,case,,DefectFeature,DefectFeature,has_index_requirement
+634,面板裂缝,classified_as,活缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Location,DefectFeature,classified_as
+635,面板裂缝,has_condition,随时间和荷载变化而发展,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Location,Concept,has_condition
+636,面板裂缝,has_issue,仍存在新增裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Location,Defect,has_issue
+637,已处理裂缝,has_issue,存在破损,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Defect,RiskOrIssue,has_issue
+638,ELSY_面板裂缝处理,has_principle,优先选择柔性处理方案,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Case,Concept,has_principle
+639,ELSY_面板裂缝处理,treated_by,缝内化学灌浆,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Case,RepairMethod,treated_by
+640,ELSY_面板裂缝处理,treated_by,缝口封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Case,Concept,treated_by
+641,ELSY_面板裂缝处理,treated_by,聚脲表面处理,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,Case,RepairMaterial,treated_by
+642,SCN_CFRD_A类裂缝,instance_of,RepairScenario,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,Concept,instance_of
+643,SCN_CFRD_A类裂缝,has_defect,A类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,DefectFeature,has_defect
+644,SCN_CFRD_A类裂缝,treated_by,裂缝周围清理,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,treated_by
+645,SCN_CFRD_A类裂缝,treated_by,手刮聚脲封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMaterial,treated_by
+646,SCN_CFRD_A类裂缝,has_condition,清理宽度30cm,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,has_condition
+647,SCN_CFRD_B类裂缝,instance_of,RepairScenario,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,Concept,instance_of
+648,SCN_CFRD_B类裂缝,has_defect,B类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,DefectFeature,has_defect
+649,SCN_CFRD_B类裂缝,treated_by,骑缝灌浆处理,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,treated_by
+650,SCN_CFRD_B类裂缝,treated_by,手刮聚脲封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMaterial,treated_by
+651,SCN_CFRD_B类裂缝,has_condition,清理裂缝周围40cm混凝土基面,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,has_condition
+652,SCN_CFRD_CD类裂缝,instance_of,RepairScenario,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,Concept,instance_of
+653,SCN_CFRD_CD类裂缝,has_defect,C类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,DefectFeature,has_defect
+654,SCN_CFRD_CD类裂缝,has_defect,D类裂缝,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,DefectFeature,has_defect
+655,SCN_CFRD_CD类裂缝,treated_by,沿裂缝切V型缝槽,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,Defect,treated_by
+656,SCN_CFRD_CD类裂缝,treated_by,缝槽底部埋设骑缝灌浆孔,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,treated_by
+657,SCN_CFRD_CD类裂缝,treated_by,交叉钻斜孔,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,treated_by
+658,SCN_CFRD_CD类裂缝,treated_by,裂缝化学灌浆,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMethod,treated_by
+659,SCN_CFRD_CD类裂缝,treated_by,弹性环氧砂浆回填缝槽,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMaterial,treated_by
+660,SCN_CFRD_CD类裂缝,treated_by,手刮聚脲封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairScenario,RepairMaterial,treated_by
+661,弹性环氧砂浆,defined_as,以环氧树脂为主剂掺入增弹剂固化剂及惰性细粒材料的高分子材料砂浆,额勒赛下游水电项目上电站大坝面板检修方案,2.6.2,,high,case,,RepairMaterial,Concept,defined_as
+662,弹性环氧砂浆,has_index_requirement,操作时间>45min,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+663,弹性环氧砂浆,has_index_requirement,7d抗渗压力≥1.5MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+664,弹性环氧砂浆,has_index_requirement,7d抗压强度≥40MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+665,弹性环氧砂浆,has_index_requirement,7d抗拉强度≥6MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+666,弹性环氧砂浆,has_index_requirement,7d与老混凝土干粘结强度≥3.0MPa或基材内聚破坏,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+667,弹性环氧砂浆,has_index_requirement,7d与老混凝土湿粘结强度≥2.0MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-2,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+668,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,初始粘度<80mPa·s,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+669,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,凝胶时间60～100min,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+670,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,28d抗压强度≥40MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+671,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,28d抗拉强度≥10MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+672,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,干粘结强度≥3.0MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+673,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,湿粘结强度≥2.0MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+674,无溶剂型高强环保环氧裂缝灌浆材料,has_index_requirement,无约束线收缩系数≤0.1%,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-3,,high,case,,Defect,DefectFeature,has_index_requirement
+675,防渗型手刮聚脲,has_index_requirement,拉伸强度>16MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,Concept,has_index_requirement
+676,防渗型手刮聚脲,has_index_requirement,扯断伸长率>380%,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+677,防渗型手刮聚脲,has_index_requirement,撕裂强度>40kN/m,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+678,防渗型手刮聚脲,has_index_requirement,硬度邵A40～50,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+679,防渗型手刮聚脲,has_index_requirement,附着力>2.5MPa,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,Concept,has_index_requirement
+680,防渗型手刮聚脲,has_index_requirement,耐磨性<15mg,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+681,防渗型手刮聚脲,has_index_requirement,颜色浅灰色可调,额勒赛下游水电项目上电站大坝面板检修方案,表2.6-4,,high,case,,RepairMaterial,DefectFeature,has_index_requirement
+682,面板孔洞,treated_by,凿除后回填环氧砂浆,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Location,RepairMaterial,treated_by
+683,面板孔洞,treated_by,顶部20cm×20cm聚脲封闭,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Location,RepairMaterial,treated_by
+684,面板孔洞,uses_material,聚脲厚度2mm,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Location,RepairMaterial,uses_material
+685,挤压破坏,treated_by,凿除后环氧砂浆修复,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,RiskOrIssue,RepairMaterial,treated_by
+686,挤压破坏,treated_by,恢复垂直缝止水,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,RiskOrIssue,Location,treated_by
+687,挤压破坏,treated_by,表面2mm厚聚脲涂刷,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,RiskOrIssue,RepairMaterial,treated_by
+688,ELSY_1号渗漏点复查,has_defect,1#渗漏点,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Case,Case,has_defect
+689,ELSY_1号渗漏点复查,requires,检查封堵部位是否存在变化,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Case,InvestigationMethod,requires
+690,ELSY_1号渗漏点复查,treated_by,补充灌浆,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Case,Concept,treated_by
+691,ELSY_1号渗漏点复查,treated_by,表面封堵,额勒赛下游水电项目上电站大坝面板检修方案,2.7,,high,case,,Case,RepairMethod,treated_by
+692,渗漏,may_lead_to,溶蚀现象,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,Defect,RiskOrIssue,may_lead_to
+693,渗漏,investigated_by,检查渗漏类型、部位、渗漏量、规模、水质和溶蚀现象,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,Defect,InvestigationMethod,investigated_by
+694,混凝土表面缺陷,classified_as,蜂窝,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,DefectFeature,Concept,classified_as
+695,混凝土表面缺陷,classified_as,麻面,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,DefectFeature,Concept,classified_as
+696,混凝土表面缺陷,classified_as,孔洞,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,DefectFeature,RiskOrIssue,classified_as
+697,混凝土表面缺陷,classified_as,缺棱掉角,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,DefectFeature,Concept,classified_as
+698,混凝土表面缺陷,classified_as,挤压破坏,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,DefectFeature,RiskOrIssue,classified_as
+699,混凝土剥蚀,investigated_by,检查剥蚀部位、深度、范围和规模,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,RiskOrIssue,InvestigationMethod,investigated_by
+700,钢筋锈蚀,investigated_by,检查钢筋锈蚀部位和范围,SL 230—2015 混凝土坝养护修理规程,3.3.3,,high,rule,,RiskOrIssue,InvestigationMethod,investigated_by
+701,碳化引起的钢筋锈蚀,treated_by,凿除保护层,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.4,,high,rule,,RiskOrIssue,Concept,treated_by
+702,混凝土剥蚀,treated_by,涂刷具有防渗特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,rule,,RiskOrIssue,RepairMethod,treated_by
+703,混凝土剥蚀,treated_by,涂刷具有耐水特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,rule,,RiskOrIssue,RepairMethod,treated_by
+704,混凝土剥蚀,treated_by,涂刷具有耐老化特性的涂料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.1.1,,high,rule,,RiskOrIssue,RepairMethod,treated_by
+705,磨损和空蚀,treated_by,高强水泥混凝土修复,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,rule,,RiskOrIssue,RepairMaterial,treated_by
+706,磨损和空蚀,treated_by,聚合物水泥混凝土修复,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,rule,,RiskOrIssue,RepairMaterial,treated_by
+707,磨损和空蚀,uses_material,高标号抗冲磨材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,rule,,RiskOrIssue,RepairMaterial,uses_material
+708,磨损和空蚀,uses_material,高韧性抗冲磨材料,DL/T 5315—2014 水工混凝土建筑物修补加固技术规程,7.3.2,,high,rule,,RiskOrIssue,RepairMaterial,uses_material
