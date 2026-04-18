@@ -1,0 +1,287 @@
+﻿base_id,v3_id,triple_id,subject,predicate,object,source_standard,clause,note,confidence,module,target_component,target_defect
+1,1,1,NB/T 10871-2021,standard_name,混凝土面板堆石坝设计规范,NB/T 10871-2021 混凝土面板堆石坝设计规范,,标准名称,high,CFRD_anti_seepage,面板,
+2,2,11,NB/T 10871-2021,applicable_to,混凝土面板堆石坝,NB/T 10871-2021 混凝土面板堆石坝设计规范,封面/目录,规范对象,high,CFRD_anti_seepage,面板,
+3,3,133,NB/T 10871-2021,includes_chapter,工程布置和坝体分区,NB/T 10871-2021 混凝土面板堆石坝设计规范,4-5,目录级骨架,high,CFRD_anti_seepage,,
+4,4,134,NB/T 10871-2021,includes_chapter,趾板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6,目录级骨架,high,CFRD_anti_seepage,趾板/连接部位,
+5,5,135,NB/T 10871-2021,includes_chapter,面板,NB/T 10871-2021 混凝土面板堆石坝设计规范,7,目录级骨架,high,CFRD_anti_seepage,面板,
+6,6,136,NB/T 10871-2021,includes_chapter,接缝和止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8,目录级骨架,high,CFRD_anti_seepage,接缝,
+7,7,137,NB/T 10871-2021,includes_chapter,坝基处理,NB/T 10871-2021 混凝土面板堆石坝设计规范,9,目录级骨架,high,CFRD_anti_seepage,坝基/绕坝,
+8,8,138,NB/T 10871-2021,includes_chapter,抗滑措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,11,目录级骨架,high,CFRD_anti_seepage,,
+9,9,139,NB/T 10871-2021,includes_chapter,安全监测,NB/T 10871-2021 混凝土面板堆石坝设计规范,13,目录级骨架,high,CFRD_anti_seepage,,
+10,10,140,NB/T 10871-2021,includes_chapter,初期蓄水与运行维护,NB/T 10871-2021 混凝土面板堆石坝设计规范,15,目录级骨架,high,CFRD_anti_seepage,,
+11,11,141,趾板,should_be_placed_on,坚硬抗冲蚀的弱风化至新鲜、弱卸荷至未卸荷基岩,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.1,岩石地基条件下,high,CFRD_anti_seepage,趾板/连接部位,
+12,12,142,置于全风化及强风化、强卸荷或有地质缺陷基岩上的趾板,requires,专门处理措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.1,,high,CFRD_anti_seepage,趾板/连接部位,
+13,13,143,中坝和低坝的趾板,can_be_placed_on,密实覆盖层,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.2,,high,CFRD_anti_seepage,趾板/连接部位,
+14,14,144,高坝趾板置于覆盖层上,requires,专门研究,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.2,,high,CFRD_anti_seepage,趾板/连接部位,
+15,15,145,置于岩石地基上的趾板,preferred_layout,平趾板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.3,,high,CFRD_anti_seepage,趾板/连接部位,
+16,16,146,岸坡较陡时的趾板布置,can_use,等宽窄趾板加混凝土防渗板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.3,,high,CFRD_anti_seepage,趾板/连接部位,
+17,17,147,岸坡较陡时的趾板布置,can_use,斜趾板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.3,,high,CFRD_anti_seepage,趾板/连接部位,
+18,18,148,地形或地质条件受限时的趾板布置,can_use,增加混凝土防渗板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.4,,high,CFRD_anti_seepage,趾板/连接部位,
+19,19,149,地形或地质条件受限时的趾板布置,can_use,回填混凝土,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.4,,high,CFRD_anti_seepage,趾板/连接部位,
+20,20,150,局部趾板,can_be_replaced_by,趾墙,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.4,,high,CFRD_anti_seepage,趾板/连接部位,
+21,21,151,高度大于5m的趾墙,requires,专门研究,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.4,,high,CFRD_anti_seepage,趾板/连接部位,
+22,22,152,趾板位置,determined_by,趾板基准线,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.1.5,,high,CFRD_anti_seepage,趾板/连接部位,
+23,23,153,趾板宽度,determined_by,趾板下基岩允许水力梯度和地基处理措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.1,,high,CFRD_anti_seepage,趾板/连接部位,
+24,24,154,高坝趾板最小宽度,not_less_than,3m,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.1,,high,CFRD_anti_seepage,趾板/连接部位,
+25,25,155,趾板宽度,can_be_extended_by,设置混凝土防渗板延长渗径,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.1,,high,CFRD_anti_seepage,趾板/连接部位,
+26,26,156,基岩趾板厚度,should_be_similar_to,相连接面板厚度,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.2,,high,CFRD_anti_seepage,面板,
+27,27,157,基岩趾板最小厚度,not_less_than,0.3m,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.2,,high,CFRD_anti_seepage,趾板/连接部位,
+28,28,158,覆盖层上趾板,should_connect_to,防渗墙,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,通过混凝土连接板,high,CFRD_anti_seepage,趾板/连接部位,
+29,29,159,趾板与连接板最小宽度,not_less_than,3m,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,,high,CFRD_anti_seepage,趾板/连接部位,
+30,30,160,趾板和连接板厚度,should_be_same_as,相连接的面板厚度,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,,high,CFRD_anti_seepage,面板,
+31,31,161,高坝及深厚覆盖层连接板,requires,三维有限元分析确定宽度数量及板间连接方式,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,,high,CFRD_anti_seepage,趾板/连接部位,
+32,32,162,连接板施工,should_be_done_after,防渗墙完工,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,,high,CFRD_anti_seepage,趾板/连接部位,
+33,33,163,连接板施工,should_be_done_before,水库第一次蓄水,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.3,,high,CFRD_anti_seepage,趾板/连接部位,
+34,34,164,面板底面以下的趾板高度,recommended_range,0.8m~1.0m,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.5,,high,CFRD_anti_seepage,面板,
+35,35,165,岩基上的趾板,can_use,不设伸缩缝的连续趾板,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.6,,high,CFRD_anti_seepage,趾板/连接部位,
+36,36,166,当地形地质条件突变时的岩基趾板,should_set,伸缩缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.2.6,,high,CFRD_anti_seepage,趾板/连接部位,
+37,37,167,趾墙,should_satisfy,防渗要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.3.6,,high,CFRD_anti_seepage,趾板/连接部位,
+38,38,168,趾墙伸缩缝,should_be_staggered_with,面板垂直缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.3.6,,high,CFRD_anti_seepage,面板,
+39,39,169,趾板混凝土要求,same_as,面板混凝土要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.1,,high,CFRD_anti_seepage,面板,
+40,40,170,趾板混凝土防裂措施,same_as,面板混凝土防裂措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.2,,high,CFRD_anti_seepage,面板,
+41,41,171,岩基上趾板及混凝土防渗板,reinforcement_type,单层双向钢筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.3,,high,CFRD_anti_seepage,趾板/连接部位,
+42,42,172,非岩基上趾板及混凝土连接板,reinforcement_type,上下双层双向钢筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.3,,high,CFRD_anti_seepage,趾板/连接部位,
+43,43,173,趾板及混凝土防渗板每向配筋率,recommended_range,0.3%~0.4%,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.3,,high,CFRD_anti_seepage,趾板/连接部位,
+44,44,174,非岩基上趾板及连接板每向每层配筋率,recommended_range,0.3%~0.4%,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.3,,high,CFRD_anti_seepage,趾板/连接部位,
+45,45,175,趾板钢筋保护层厚度,not_less_than,8cm,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.3,,high,CFRD_anti_seepage,趾板/连接部位,
+46,46,176,趾板,should_be_connected_to,基岩,NB/T 10871-2021 混凝土面板堆石坝设计规范,6.4.5,采用锚筋连接,high,CFRD_anti_seepage,趾板/连接部位,
+47,47,177,面板,requires,分缝分块设计,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.1,,high,CFRD_anti_seepage,面板,
+48,48,178,面板垂直缝间距,recommended_range,12m~16m,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.1,,high,CFRD_anti_seepage,面板,
+49,49,179,垂直缝在距周边缝法线方向约1.0m处,should_be,折线形式,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.1,,medium,CFRD_anti_seepage,接缝,
+50,50,180,特高坝及地形地质条件特殊的高坝和地震设计烈度8度及以上堆石坝,can_set,水平缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.2,,high,CFRD_anti_seepage,接缝,
+51,51,181,水平缝的结构型式和止水,requires,专门设计,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.2,,high,CFRD_anti_seepage,接缝,
+52,52,182,面板施工缝缝面,should_be,垂直于面板,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.3,,high,CFRD_anti_seepage,面板,
+53,53,183,分期浇筑的面板顶部,should_be_lower_than,填筑体顶部高程,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.4,,high,CFRD_anti_seepage,面板,
+54,54,184,分期浇筑面板与填筑体顶部高差,not_less_than,5m,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.1.4,,high,CFRD_anti_seepage,面板,
+55,55,185,面板厚度设计,requires,渗透水力梯度不超过200,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.2.1,,high,CFRD_anti_seepage,面板,
+56,56,186,面板厚度设计,requires,满足钢筋和止水布置要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.2.1,,high,CFRD_anti_seepage,面板,
+57,57,187,面板顶部厚度,not_less_than,0.3m,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.2.2,,high,CFRD_anti_seepage,面板,
+58,58,188,低坝面板,can_use,0.3m~0.4m等厚面板,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.2.2,,high,CFRD_anti_seepage,面板,
+59,59,189,面板混凝土,should_have,良好的耐久性,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+60,60,190,面板混凝土,should_have,抗渗性,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+61,61,191,面板混凝土,should_have,抗裂性,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+62,62,192,面板混凝土,should_have,施工和易性,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+63,63,193,面板混凝土强度等级,not_less_than,C25,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+64,64,194,1级坝和特高坝面板混凝土强度等级,not_less_than,C30,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+65,65,195,面板混凝土抗渗等级,not_less_than,W8,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+66,66,196,特高坝面板混凝土抗渗等级,not_less_than,W12,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+67,67,197,面板混凝土抗冻等级,not_less_than,F100,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,high,CFRD_anti_seepage,面板,
+68,68,198,面板混凝土极限拉伸值,not_less_than,0.85×10^-4,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,medium,CFRD_anti_seepage,面板,
+69,69,199,高坝面板混凝土极限拉伸值,not_less_than,1×10^-4,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.1,,medium,CFRD_anti_seepage,面板,
+70,70,200,面板混凝土,preferred_cement,42.5级中热硅酸盐水泥,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.2,,high,CFRD_anti_seepage,面板,
+71,71,201,面板混凝土,preferred_cement,42.5级低热硅酸盐水泥,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.2,,high,CFRD_anti_seepage,面板,
+72,72,202,面板混凝土,can_use,42.5级硅酸盐水泥,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.2,,medium,CFRD_anti_seepage,面板,
+73,73,203,面板混凝土,can_use,42.5级普通硅酸盐水泥,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.2,,medium,CFRD_anti_seepage,面板,
+74,74,204,面板混凝土,should_use,引气剂,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.3,,high,CFRD_anti_seepage,面板,
+75,75,205,面板混凝土,should_use,高效减水剂,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.3,,high,CFRD_anti_seepage,面板,
+76,76,206,面板混凝土含气量,recommended_range,4%~6%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.3,,high,CFRD_anti_seepage,面板,
+77,77,207,面板混凝土,should_use,二级配骨料,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,面板,
+78,78,208,粗骨料吸水率,not_greater_than,2%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,,
+79,79,209,粗骨料含泥量,not_greater_than,1%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,,
+80,80,210,细骨料吸水率,not_greater_than,3%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,,
+81,81,211,细骨料含泥量,not_greater_than,2%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,,
+82,82,212,细骨料细度模数,recommended_range,2.4~2.8,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.4,,high,CFRD_anti_seepage,,
+83,83,213,温和地区面板混凝土水灰比,less_than,0.50,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.5,,high,CFRD_anti_seepage,面板,
+84,84,214,严寒和寒冷地区面板混凝土水灰比,less_than,0.45,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.3.5,,high,CFRD_anti_seepage,面板,
+85,85,215,面板,can_use_reinforcement,单层双向钢筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.1,,high,CFRD_anti_seepage,面板,
+86,86,216,面板,can_use_reinforcement,双层双向钢筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.1,,high,CFRD_anti_seepage,面板,
+87,87,217,面板每层每向配筋率,recommended_range,0.3%~0.5%,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.1,,high,CFRD_anti_seepage,面板,
+88,88,218,高坝压性垂直缝和周边缝及水平缝附近面板,should_set,抗挤压钢筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.2,,high,CFRD_anti_seepage,面板,
+89,89,219,高坝压性垂直缝和周边缝及水平缝附近面板,should_set,拉筋或封闭短筋,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.2,,high,CFRD_anti_seepage,面板,
+90,90,220,面板钢筋保护层厚度,not_less_than,8cm,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.4.3,,high,CFRD_anti_seepage,面板,
+91,91,221,面板浇筑前坝体上游坡面,should_set,乳化沥青层,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.2,,high,CFRD_anti_seepage,面板,
+92,92,222,面板混凝土,requires,配合比设计,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.3,,high,CFRD_anti_seepage,面板,
+93,93,223,面板混凝土,can_use,纤维材料,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.3,必要时,medium,CFRD_anti_seepage,面板,
+94,94,224,V形槽深度,not_greater_than,5cm,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.4,面板压性缝顶部,high,CFRD_anti_seepage,面板,
+95,95,225,面板混凝土施工,should_avoid,高温季节,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.5,,high,CFRD_anti_seepage,面板,
+96,96,226,面板混凝土施工,should_avoid,负温季节,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.5,,high,CFRD_anti_seepage,面板,
+97,97,227,面板混凝土出模后,should_be,及时覆盖保温保湿,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.7,,high,CFRD_anti_seepage,面板,
+98,98,228,面板混凝土保温保湿,duration,直到水库蓄水或至少90d,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.7,,high,CFRD_anti_seepage,面板,
+99,99,229,面板裂缝宽度大于0.2mm,requires,专门措施处理,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.8,,high,CFRD_anti_seepage,面板,裂缝
+100,100,230,贯穿性裂缝,requires,专门措施处理,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.8,,high,CFRD_anti_seepage,,贯穿性裂缝
+101,101,231,严寒地区和抽水蓄能电站混凝土面板堆石坝,should_raise,裂缝处理标准,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.8,,high,CFRD_anti_seepage,面板,裂缝
+102,102,232,较大范围混凝土裂缝等缺陷,can_use,土工膜等辅助面板防渗措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,7.5.9,,high,CFRD_anti_seepage,面板,裂缝
+103,103,233,面板、趾板、趾墙、混凝土连接板、防浪墙的接缝,should_form,连续密封的止水系统,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.1.1,,high,CFRD_anti_seepage,面板,
+104,104,234,接缝止水型式,should_adapt_to,防渗体系结构变形需要,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.1.2,,high,CFRD_anti_seepage,接缝,
+105,105,235,接缝止水材料,requires,出厂合格证明,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.1.3,,high,CFRD_anti_seepage,接缝,
+106,106,236,接缝止水材料,requires,抽检,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.1.3,,high,CFRD_anti_seepage,接缝,
+107,107,237,接缝止水材料,should_bind_well_with,混凝土,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.1.4,,high,CFRD_anti_seepage,接缝,
+108,108,238,低坝周边缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+109,109,239,中坝周边缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+110,110,240,中坝周边缝,should_set,顶部第二道止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,宜采用,high,CFRD_anti_seepage,接缝,
+111,111,241,高坝周边缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+112,112,242,高坝周边缝,should_set,顶部塑性填料或无黏性填料止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+113,113,243,高坝周边缝,can_set,橡胶棒,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,缝中部,high,CFRD_anti_seepage,接缝,
+114,114,244,特高坝周边缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+115,115,245,特高坝周边缝,should_set,顶部塑性填料和无黏性填料止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,,high,CFRD_anti_seepage,接缝,
+116,116,246,特高坝周边缝,can_set,橡胶棒,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.1,缝中部,high,CFRD_anti_seepage,接缝,
+117,117,247,周边缝底部铜止水片和顶部塑性填料,should_form,自成封闭止水系统,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.2,,high,CFRD_anti_seepage,接缝,
+118,118,248,周边缝缝宽,recommended_value,12mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.3,,high,CFRD_anti_seepage,接缝,
+119,119,249,周边缝内部,should_set,抗挤压板,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.3,,high,CFRD_anti_seepage,接缝,
+120,120,250,抗挤压板,should_be_fixed_on,混凝土趾板,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.3,,high,CFRD_anti_seepage,趾板/连接部位,
+121,121,251,铜止水片下垫片,can_use,橡胶垫片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,止水系统,
+122,122,252,铜止水片下垫片,can_use,聚氯乙烯垫片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,止水系统,
+123,123,253,铜止水片下垫片,can_use,土工织物垫片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,止水系统,
+124,124,254,垫片厚度,recommended_range,4mm~6mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,,
+125,125,255,垫片下垫层材料,preferred_material,沥青砂浆,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,,
+126,126,256,垫片下垫层材料,can_use,水泥砂浆,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,medium,CFRD_anti_seepage,,
+127,127,257,铜止水片鼻子顶部,should_fill_with,橡胶棒,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,止水系统,
+128,128,258,铜止水片鼻子顶部,can_fill_with,聚氨酯泡沫板,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.4,,high,CFRD_anti_seepage,止水系统,
+129,129,259,周边缝设置塑性填料止水时,should_set,橡胶棒或聚氯乙烯棒,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.6,,high,CFRD_anti_seepage,接缝,
+130,130,260,保护盖片,preferred_material,不锈钢,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.6,,high,CFRD_anti_seepage,止水系统,
+131,131,261,周边缝铜止水片鼻子,should_face,迎水面,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.2.8,,high,CFRD_anti_seepage,接缝,
+132,132,262,低坝张性垂直缝和压性垂直缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+133,133,263,中坝张性垂直缝和压性垂直缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+134,134,264,中坝张性垂直缝,should_set,顶部第二道止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,宜设置,high,CFRD_anti_seepage,接缝,
+135,135,265,高坝张性垂直缝和压性垂直缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+136,136,266,高坝张性垂直缝,should_set,顶部第二道止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+137,137,267,特高坝张性垂直缝和压性垂直缝,should_set,底部铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+138,138,268,特高坝张性垂直缝,should_set,顶部第二道止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,,high,CFRD_anti_seepage,接缝,
+139,139,269,特高坝压性垂直缝,should_set,顶部第二道止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.2,宜设置,high,CFRD_anti_seepage,接缝,
+140,140,270,张性垂直缝W型铜止水片鼻高,recommended_range,40mm~60mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.3,,high,CFRD_anti_seepage,接缝,
+141,141,271,张性垂直缝W型铜止水片鼻宽,recommended_value,12mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.3,,high,CFRD_anti_seepage,接缝,
+142,142,272,张性垂直缝W型铜止水片平段宽度,not_less_than,160mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.3,,high,CFRD_anti_seepage,接缝,
+143,143,273,压性垂直缝W型铜止水片鼻高,recommended_range,30mm~50mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.3,,high,CFRD_anti_seepage,接缝,
+144,144,274,高坝或8度及以上中坝的受力较大面板部位,should_set,柔性垂直缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.6,,high,CFRD_anti_seepage,面板,
+145,145,275,柔性垂直缝缝宽,recommended_range,10mm~20mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.6,,high,CFRD_anti_seepage,接缝,
+146,146,276,柔性垂直缝,should_set,抗挤压板,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.3.6,,high,CFRD_anti_seepage,接缝,
+147,147,277,岩基上趾板,should_set,必要的伸缩缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.1,,high,CFRD_anti_seepage,趾板/连接部位,
+148,148,278,趾板伸缩缝,should_be_staggered_with,面板垂直缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.1,,high,CFRD_anti_seepage,面板,
+149,149,279,趾板伸缩缝,should_set,止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.1,,high,CFRD_anti_seepage,趾板/连接部位,
+150,150,280,趾板伸缩缝,should_form,与周边缝止水片和基岩构成封闭止水系统,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.1,,high,CFRD_anti_seepage,趾板/连接部位,
+151,151,281,覆盖层上趾板、连接板和防渗墙之间的接缝,should_be_designed_as,周边缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.2,,high,CFRD_anti_seepage,趾板/连接部位,
+152,152,282,覆盖层上趾板、连接板和防渗墙之间的接缝,should_have,自愈措施,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.2,,high,CFRD_anti_seepage,趾板/连接部位,
+153,153,283,混凝土面板与溢洪道或其他建筑物边墙连接缝,stopwater_structure_same_as,周边缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.4,,high,CFRD_anti_seepage,面板,
+154,154,284,面板分期施工缝,should_set,顶部塑性材料止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.5,,high,CFRD_anti_seepage,面板,
+155,155,285,面板分期施工缝,should_set,保护盖片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.5,,high,CFRD_anti_seepage,面板,
+156,156,286,面板永久水平缝止水结构,can_be_set_as,同高程周边缝,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.5,,high,CFRD_anti_seepage,面板,
+157,157,287,防浪墙底部水平缝,should_set,铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.6,,high,CFRD_anti_seepage,接缝,
+158,158,288,防浪墙底部水平缝,should_set,顶部塑性填料止水,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.6,,high,CFRD_anti_seepage,接缝,
+159,159,289,防浪墙结构缝,can_use,聚氯乙烯止水带,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.7,,high,CFRD_anti_seepage,止水系统,
+160,160,290,防浪墙结构缝,can_use,橡胶止水带,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.7,,high,CFRD_anti_seepage,止水系统,
+161,161,291,防浪墙结构缝,can_use,铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.4.7,,high,CFRD_anti_seepage,止水系统,
+162,162,292,止水材料,can_use,铜止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+163,163,293,止水材料,can_use,不锈钢止水片,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+164,164,294,止水材料,can_use,橡胶止水带,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+165,165,295,止水材料,can_use,聚氯乙烯止水带,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+166,166,296,止水材料,can_use,塑性填料,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+167,167,297,止水材料,can_use,无黏性填料,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.1,,high,CFRD_anti_seepage,止水系统,
+168,168,298,铜止水片厚度,recommended_range,0.8mm~1.2mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.2,,high,CFRD_anti_seepage,止水系统,
+169,169,299,聚氯乙烯止水带厚度,recommended_range,6mm~12mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.6,,high,CFRD_anti_seepage,止水系统,
+170,170,300,橡胶止水带厚度,recommended_range,6mm~12mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.6,,high,CFRD_anti_seepage,止水系统,
+171,171,301,高坝塑性填料流动止水长度,not_less_than,150mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.8,,high,CFRD_anti_seepage,止水系统,
+172,172,302,塑性填料针入度,not_less_than,8mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.8,,high,CFRD_anti_seepage,止水系统,
+173,173,303,保护盖片厚度,recommended_range,5mm~8mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.10,,high,CFRD_anti_seepage,止水系统,
+174,174,304,保护盖片,preferred_material,三元乙丙橡胶等耐老化高分子防水材料,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.10,,high,CFRD_anti_seepage,止水系统,
+175,175,305,无黏性填料,preferred_material,粉煤灰,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.13,,high,CFRD_anti_seepage,止水系统,
+176,176,306,无黏性填料,preferred_material,粉细砂,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.13,,high,CFRD_anti_seepage,止水系统,
+177,177,307,无黏性填料最大粒径,not_greater_than,1mm,NB/T 10871-2021 混凝土面板堆石坝设计规范,8.5.13,,high,CFRD_anti_seepage,止水系统,
+178,178,308,初期蓄水前,requires,提出下闸蓄水前工程应完成的形象面貌和封堵要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.1,,high,CFRD_anti_seepage,,
+179,179,309,初期蓄水前要求,includes,大坝及渗控工程、泄水建筑物、消能防冲建筑物以及相关设施形象面貌要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.1,,high,CFRD_anti_seepage,,
+180,180,310,初期蓄水前要求,includes,影响蓄水的施工支洞、交通洞、探洞及探孔封堵要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.1,,high,CFRD_anti_seepage,,
+181,181,311,蓄水期,requires,提出库水位上升和下降速率限制值,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.2,,high,CFRD_anti_seepage,,
+182,182,312,高坝大库蓄水,requires,提出分阶段蓄水的水位控制要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.2,,high,CFRD_anti_seepage,,
+183,183,313,蓄水初期,requires,提出运行与安全监测、巡视检查、缺陷处理、风险防控要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.3,,high,CFRD_anti_seepage,,
+184,184,314,蓄水初期要求,includes,大坝及泄水、消能防冲建筑物运行要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.3,,high,CFRD_anti_seepage,,
+185,185,315,蓄水初期要求,includes,大坝及相关建筑物安全监测技术要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.3,,high,CFRD_anti_seepage,,
+186,186,316,蓄水初期要求,includes,后续缺陷处理技术要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.3,,high,CFRD_anti_seepage,,
+187,187,317,蓄水初期要求,includes,主要风险防控与异常情况应急处理原则,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.3,,high,CFRD_anti_seepage,,
+188,188,318,特高坝和条件复杂的高坝蓄水初期,should_conduct,大坝安全反馈分析评价,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.4,,high,CFRD_anti_seepage,,
+189,189,319,运行维护期,requires,提出面板堆石坝工程运行维护管理要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.5,,high,CFRD_anti_seepage,面板,
+190,190,320,运行维护管理要求,includes,大坝日常巡视检查与运行维护管理要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.5,,high,CFRD_anti_seepage,,
+191,191,321,运行维护管理要求,includes,大坝安全监测设施维护及安全观测技术要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.5,,high,CFRD_anti_seepage,,
+192,192,322,运行维护管理要求,includes,大坝安全分析评价要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.5,,high,CFRD_anti_seepage,,
+193,193,323,运行维护管理要求,includes,泄水建筑物运行维护管理要求,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.5,,high,CFRD_anti_seepage,,
+194,194,324,渗透压力、渗漏量或渗流水质变化异常,requires,对水下面板、趾板和接缝止水系统进行系统分析或水下检查,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.6,,high,CFRD_anti_seepage,面板,渗漏
+195,195,325,必要时,requires,放空水库检查,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.6,针对异常渗流相关情况,medium,CFRD_anti_seepage,,
+196,196,326,特高坝,should_periodically_conduct,面板和接缝止水系统检查与分析评估,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.6,,high,CFRD_anti_seepage,面板,
+197,197,327,遭遇极端水文气象或强烈地震影响,requires,对大坝和泄水建筑物进行详细检查,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.7,,high,CFRD_anti_seepage,,
+198,198,328,遭遇极端水文气象或强烈地震影响,requires,对原水文气象设计条件和工程适应性开展复核评价,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.7,,high,CFRD_anti_seepage,,
+199,199,329,运行维护期,requires,按规定定期开展大坝运行安全评价,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.8,,high,CFRD_anti_seepage,,
+200,200,330,特高坝运行维护期,should_conduct,反演分析,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.8,,high,CFRD_anti_seepage,,
+201,201,331,监测数据异常或超过设计允许值,requires,及时查明原因并研究提出必要处理方案,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.8,,high,CFRD_anti_seepage,,
+202,202,332,运行维护期重大工程缺陷和安全隐患,requires,原因分析和安全风险评估,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.9,,high,CFRD_anti_seepage,,
+203,203,333,运行维护期重大工程缺陷和安全隐患,can_require,特种检查、检测或勘察,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.9,,high,CFRD_anti_seepage,,
+204,204,334,运行维护期重大工程缺陷和安全隐患,requires,专项处理方案,NB/T 10871-2021 混凝土面板堆石坝设计规范,15.0.9,,high,CFRD_anti_seepage,,
+205,205,82,直接堵塞法,uses_material,快凝止水砂浆,SL 230-2015 混凝土坝养护修理规程,7.4.3,,high,CFRD_anti_seepage,止水系统,
+206,206,94,严重渗漏且迎水面抗渗性能差的散渗,can_use,防渗面板法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,CFRD_anti_seepage,面板,散渗
+207,207,100,沥青井止水结构渗漏,can_use,补灌沥青法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,CFRD_anti_seepage,止水系统,渗漏
+208,208,114,PU-1、PU-2弹塑性嵌缝密封材料,used_for,变形缝、裂缝的嵌填密封止水,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,CFRD_anti_seepage,接缝,裂缝
+209,209,115,橡胶改性沥青嵌缝油膏,used_for,混凝土构件接缝的防水嵌填,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,CFRD_anti_seepage,接缝,
+210,210,5,SL 230-2015,standard_name,混凝土坝养护修理规程,SL 230-2015 混凝土坝养护修理规程,,标准名称,high,common,,
+211,211,12,SL 230-2015,applicable_to,1级～4级混凝土坝及其枢纽所含其他水工建筑物、地下洞室、边坡和设施,SL 230-2015 混凝土坝养护修理规程,1.0.2,适用对象,high,common,,
+212,212,35,日常巡视检查,focuses_on,裂缝,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,裂缝
+213,213,37,日常巡视检查,focuses_on,渗漏,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,渗漏
+214,214,43,裂缝检查,includes,裂缝类型,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,裂缝
+215,215,44,裂缝检查,includes,裂缝部位,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,裂缝
+216,216,45,裂缝检查,includes,裂缝尺寸,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,裂缝
+217,217,46,裂缝检查,includes,裂缝走向,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,裂缝
+218,218,49,渗漏检查,includes,坝体渗漏,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,渗漏
+219,219,50,渗漏检查,includes,坝基渗涌,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,坝基/绕坝,渗漏
+220,220,51,渗漏检查,includes,绕坝渗流,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,坝基/绕坝,渗漏
+221,221,52,渗漏检查,includes,围岩及边坡渗漏,SL 230-2015 混凝土坝养护修理规程,3.3,,medium,common,,渗漏
+222,222,53,渗漏检查,includes,变形缝渗漏,SL 230-2015 混凝土坝养护修理规程,7.2/Table 2,,high,common,接缝,渗漏
+223,223,57,裂缝宽度大于钢筋混凝土结构允许最大裂缝宽度,requires,裂缝修补,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+224,224,58,裂缝修补前,requires,裂缝调查,SL 230-2015 混凝土坝养护修理规程,5.2-5.4,,medium,common,,裂缝
+225,225,59,裂缝修补方案,requires,修补材料,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+226,226,60,裂缝修补方案,requires,修补方法,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+227,227,61,裂缝修补方案,requires,修补时间,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+228,228,62,静止裂缝,can_be_repaired_by,即时修补,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+229,229,63,活动裂缝,requires,查明成因,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+230,230,64,活动裂缝,requires,观察一段时间,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+231,231,65,活动裂缝稳定后,can_use,静止裂缝修补方法,SL 230-2015 混凝土坝养护修理规程,5.1,,medium,common,,裂缝
+232,232,66,深层裂缝,may_cause,结构强度降低,SL 230-2015 混凝土坝养护修理规程,5.3,,medium,common,,裂缝
+233,233,67,贯穿性裂缝,may_cause,结构强度降低,SL 230-2015 混凝土坝养护修理规程,5.3,,medium,common,,贯穿性裂缝
+234,234,68,深层裂缝和贯穿性裂缝导致强度不足,requires,补强加固,SL 230-2015 混凝土坝养护修理规程,6.1-6.2,,medium,common,,贯穿性裂缝
+235,235,69,补强加固,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,6.2,,high,common,,
+236,236,75,裂缝渗漏,can_use,直接堵塞法,SL 230-2015 混凝土坝养护修理规程,7.4.1,,high,common,,裂缝
+237,237,76,裂缝渗漏,can_use,导渗止漏法,SL 230-2015 混凝土坝养护修理规程,7.4.1,,high,common,,裂缝
+238,238,77,裂缝渗漏,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.4.1,原文为灌浆法等,high,common,,裂缝
+239,239,78,裂缝渗漏处理,requires,先止漏后修补,SL 230-2015 混凝土坝养护修理规程,7.4.2,,high,common,,裂缝
+240,240,79,大坝上游面水平裂缝渗漏处理,requires,专项设计,SL 230-2015 混凝土坝养护修理规程,7.4.2,,high,common,,裂缝
+241,241,85,集中渗漏且水压≤0.1MPa,can_use,直接堵漏法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+242,242,86,集中渗漏且水压≤0.1MPa,can_use,导管堵漏法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+243,243,87,集中渗漏且水压≤0.1MPa,can_use,木楔堵塞法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+244,244,88,集中渗漏且水压>0.1MPa,can_use,灌浆堵漏法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+245,245,89,裂缝渗漏,can_use,直接堵塞法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,水压较小时采用,high,common,,裂缝
+246,246,90,裂缝渗漏,can_use,导渗止漏法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,水压较大时采用,high,common,,裂缝
+247,247,91,裂缝渗漏,can_use,动水灌浆堵漏法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,水压大、流速快、渗漏量大时采用,high,common,,裂缝
+248,248,92,轻微散渗,can_use,表面涂抹粘贴法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,散渗
+249,249,93,大面积散渗,can_use,喷射混凝土（砂浆）法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,散渗
+250,250,95,混凝土密实性较差或网状深层裂缝产生的散渗,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,裂缝
+251,251,96,变形缝渗漏,can_use,嵌填法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,接缝,渗漏
+252,252,97,变形缝渗漏,can_use,粘贴法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,接缝,渗漏
+253,253,98,变形缝渗漏,can_use,锚固法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,接缝,渗漏
+254,254,99,变形缝渗漏,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,接缝,渗漏
+255,255,101,基础渗漏,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,坝基/绕坝,渗漏
+256,256,102,岩体破碎绕坝渗漏,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,可补设排水孔或导渗平洞,high,common,坝基/绕坝,渗漏
+257,257,103,岩溶渗漏,can_use,灌浆法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+258,258,104,岩溶渗漏,can_use,堵塞法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+259,259,105,岩溶渗漏,can_use,阻截法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+260,260,106,岩溶渗漏,can_use,铺盖法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+261,261,107,岩溶渗漏,can_use,下游导排法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,,high,common,,渗漏
+262,262,108,土质岸坡绕坝渗漏,can_use,铺盖法,SL 230-2015 混凝土坝养护修理规程,7.2.6/Table 2,同时在下游面设反滤、排水设施,high,common,坝基/绕坝,渗漏
+263,263,109,LW水溶性聚氨酯浆材,used_for,混凝土缝和孔洞的快速堵漏,SL 230-2015 混凝土坝养护修理规程,附录B,,medium,common,,
+264,264,110,丙烯酰胺（内凝）浆材,used_for,混凝土蜂窝孔洞和裂缝的堵漏处理,SL 230-2015 混凝土坝养护修理规程,附录B,,medium,common,,裂缝
+265,265,111,水泥/超细水泥浆材,used_for,混凝土裂缝和蜂窝孔洞的灌浆补强加固,SL 230-2015 混凝土坝养护修理规程,附录B,,medium,common,,裂缝
+266,266,112,环氧树脂灌浆材料,used_for,混凝土裂缝补强加固,SL 230-2015 混凝土坝养护修理规程,附录B,,medium,common,,裂缝
+267,267,113,HW水溶性聚氨酯浆材,used_for,混凝土裂缝、孔洞的堵漏处理和补强,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,,裂缝
+268,268,116,水泥快速堵漏剂,used_for,快速封堵混凝土孔洞和裂缝的渗漏,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,,裂缝
+269,269,117,水玻璃或水泥水玻璃浆材,used_for,地下混凝土结构或大体积混凝土连通蜂窝孔洞和裂缝漏水的处理和补强,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,,裂缝
+270,270,118,氯丁橡胶片材,used_for,变形缝、裂缝的防渗处理,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,接缝,裂缝
+271,271,119,三元乙丙橡胶片材,used_for,变形缝、裂缝的防渗处理,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,接缝,裂缝
+272,272,120,聚氯乙烯片材,used_for,变形缝、裂缝的防渗处理,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,接缝,裂缝
+273,273,121,橡胶布,used_for,迎水面的散渗处理,SL 230-2015 混凝土坝养护修理规程,附录B 表B.4.2,,high,common,,散渗
+274,274,6,JC/T 2041-2020,standard_name,聚氨酯灌浆材料,JC/T 2041-2020 聚氨酯灌浆材料,,标准名称,high,common,,
+275,275,122,聚氨酯灌浆材料,subclass_of,亲水型聚氨酯灌浆材料,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+276,276,123,聚氨酯灌浆材料,subclass_of,疏水型聚氨酯灌浆材料,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+277,277,124,亲水型聚氨酯灌浆材料,code,WPU,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+278,278,125,疏水型聚氨酯灌浆材料,code,OPU,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+279,279,126,WPU,subclass_of,I型,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+280,280,127,WPU,subclass_of,II型,JC/T 2041-2020 聚氨酯灌浆材料,4.1,,high,common,,
+281,281,128,聚氨酯灌浆材料,used_for,岩土工程,JC/T 2041-2020 聚氨酯灌浆材料,1,,high,common,,
+282,282,129,聚氨酯灌浆材料,used_for,水工混凝土裂缝治理,JC/T 2041-2020 聚氨酯灌浆材料,1,,high,common,,裂缝
+283,283,130,聚氨酯灌浆材料,used_for,混凝土结构渗漏水治理,JC/T 2041-2020 聚氨酯灌浆材料,1,,high,common,,渗漏
+284,284,131,聚氨酯灌浆材料,used_for,基础加固,JC/T 2041-2020 聚氨酯灌浆材料,1,,high,common,坝基/绕坝,
+285,285,132,聚氨酯灌浆材料,used_for,帷幕防渗工程,JC/T 2041-2020 聚氨酯灌浆材料,1,,high,common,,
+286,286,7,GB 50367-2013,standard_name,混凝土结构加固设计规范,GB 50367-2013 混凝土结构加固设计规范,,标准名称,high,common,,
